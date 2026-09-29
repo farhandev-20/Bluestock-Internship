@@ -1,0 +1,6 @@
+[submodule "mutual-fund-analytics"]
+	path = mutual-fund-analytics
+	url = https://github.com/farhandev-20/mutual-fund-analytics.git
+[submodule "N100_Project"]
+	path = N100_Project
+	url = https://github.com/farhandev-20/N100_Project.git
