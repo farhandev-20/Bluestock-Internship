@@ -1,0 +1,16 @@
+pandas
+openpyxl
+python-dotenv
+pytest
+pytest-html
+matplotlib
+seaborn
+pyyaml
+streamlit
+plotly
+requests
+httpx
+reportlab
+fastapi
+uvicorn
+scikit-learn

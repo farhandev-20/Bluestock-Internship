@@ -1,0 +1,140 @@
+# ==============================================================================
+# N100 Financial Screener Configuration
+# Definitions for 15 filterable metrics and 6 production preset screeners.
+# ==============================================================================
+
+version: "1.0"
+
+# 15 Supported Filterable Metrics and their database column mappings
+metrics:
+  return_on_equity_pct:
+    display_name: "ROE (%)"
+    unit: "%"
+    default_direction: "min"
+  debt_to_equity:
+    display_name: "Debt to Equity"
+    unit: "ratio"
+    default_direction: "max"
+  free_cash_flow_cr:
+    display_name: "Free Cash Flow (Cr)"
+    unit: "Cr"
+    default_direction: "min"
+  revenue_cagr_5yr:
+    display_name: "5-Year Revenue CAGR (%)"
+    unit: "%"
+    default_direction: "min"
+  pat_cagr_5yr:
+    display_name: "5-Year PAT CAGR (%)"
+    unit: "%"
+    default_direction: "min"
+  operating_profit_margin_pct:
+    display_name: "Operating Profit Margin (%)"
+    unit: "%"
+    default_direction: "min"
+  pe_ratio:
+    display_name: "P/E Ratio"
+    unit: "ratio"
+    default_direction: "max"
+  pb_ratio:
+    display_name: "P/B Ratio"
+    unit: "ratio"
+    default_direction: "max"
+  dividend_yield_pct:
+    display_name: "Dividend Yield (%)"
+    unit: "%"
+    default_direction: "min"
+  interest_coverage:
+    display_name: "Interest Coverage Ratio"
+    unit: "ratio"
+    default_direction: "min"
+  market_cap_crore:
+    display_name: "Market Cap (Cr)"
+    unit: "Cr"
+    default_direction: "min"
+  net_profit:
+    display_name: "Net Profit (Cr)"
+    unit: "Cr"
+    default_direction: "min"
+  eps_cagr_5yr:
+    display_name: "5-Year EPS CAGR (%)"
+    unit: "%"
+    default_direction: "min"
+  asset_turnover:
+    display_name: "Asset Turnover"
+    unit: "ratio"
+    default_direction: "min"
+  sales:
+    display_name: "Sales / Revenue (Cr)"
+    unit: "Cr"
+    default_direction: "min"
+
+# 6 Production Preset Screeners
+presets:
+  quality_compounder:
+    name: "Quality Compounder"
+    description: "High ROE compounders with clean balance sheets, positive free cash flow, and steady 5-year top-line growth."
+    filters:
+      return_on_equity_pct:
+        min: 15.0
+      debt_to_equity:
+        max: 1.0
+      free_cash_flow_cr:
+        min: 0.0
+      revenue_cagr_5yr:
+        min: 10.0
+
+  value_pick:
+    name: "Value Pick"
+    description: "Undervalued companies with modest valuation multiples (P/E < 20, P/B < 4.5), conservative leverage (D/E < 2.0), and dividend yield > 1%."
+    filters:
+      pe_ratio:
+        max: 20.0
+      pb_ratio:
+        max: 4.5
+      debt_to_equity:
+        max: 2.0
+      dividend_yield_pct:
+        min: 1.0
+
+  growth_accelerator:
+    name: "Growth Accelerator"
+    description: "High-growth compounders showing >20% PAT CAGR and >15% Revenue CAGR with manageable leverage."
+    filters:
+      pat_cagr_5yr:
+        min: 20.0
+      revenue_cagr_5yr:
+        min: 15.0
+      debt_to_equity:
+        max: 2.0
+
+  dividend_champion:
+    name: "Dividend Champion"
+    description: "Sustainable dividend payers yielding >2% with disciplined payout ratio (<80%) and positive free cash flows."
+    filters:
+      dividend_yield_pct:
+        min: 2.0
+      dividend_payout_ratio_pct:
+        max: 80.0
+      free_cash_flow_cr:
+        min: 0.0
+
+  debt_free_blue_chip:
+    name: "Debt-Free Blue Chip"
+    description: "Zero/negligible debt companies with robust ROE (>12%) and large scale (Revenue > 5,000 Cr)."
+    filters:
+      debt_to_equity:
+        max: 0.05
+      return_on_equity_pct:
+        min: 12.0
+      sales:
+        min: 5000.0
+
+  turnaround_watch:
+    name: "Turnaround Watch"
+    description: "Accelerating 3-year revenue growth (>10%), positive current FCF, and declining debt-to-equity ratio year-over-year."
+    filters:
+      revenue_cagr_3yr:
+        min: 10.0
+      free_cash_flow_cr:
+        min: 0.0
+      de_declining_yoy: true

@@ -1,0 +1,36 @@
+company_id,previous_year,previous_pattern,current_year,current_pattern,change_type
+ADANIENSOL,2023,Mixed,2024,Reinvestor,Mixed -> Reinvestor
+ADANIENT,2023,Reinvestor,2024,Mixed,Reinvestor -> Mixed
+ADANIGREEN,2023,Reinvestor,2024,Mixed,Reinvestor -> Mixed
+ATGL,2023,Mixed,2024,Reinvestor,Mixed -> Reinvestor
+AXISBANK,2023,Mixed,2024,Growth Funded by Debt,Mixed -> Growth Funded by Debt
+BANKBARODA,2023,Pre-Revenue,2024,Growth Funded by Debt,Pre-Revenue -> Growth Funded by Debt
+BEL,2023,Liquidating Assets,2024,Reinvestor,Liquidating Assets -> Reinvestor
+BRITANNIA,2023,Reinvestor,2024,Liquidating Assets,Reinvestor -> Liquidating Assets
+CANBK,2023,Growth Funded by Debt,2024,Reinvestor,Growth Funded by Debt -> Reinvestor
+DLF,2023,Reinvestor,2024,Mixed,Reinvestor -> Mixed
+GAIL,2023,Mixed,2024,Reinvestor,Mixed -> Reinvestor
+GODREJCP,2023,Reinvestor,2024,Mixed,Reinvestor -> Mixed
+HAVELLS,2023,Liquidating Assets,2024,Reinvestor,Liquidating Assets -> Reinvestor
+HDFCBANK,2023,Mixed,2024,Liquidating Assets,Mixed -> Liquidating Assets
+HDFCLIFE,2023,Mixed,2024,Reinvestor,Mixed -> Reinvestor
+ICICIBANK,2023,Growth Funded by Debt,2024,Mixed,Growth Funded by Debt -> Mixed
+ICICIPRULI,2023,Reinvestor,2024,Distress Signal,Reinvestor -> Distress Signal
+INDUSINDBK,2023,Growth Funded by Debt,2024,Pre-Revenue,Growth Funded by Debt -> Pre-Revenue
+IRFC,2023,Distress Signal,2024,Reinvestor,Distress Signal -> Reinvestor
+ITC,2023,Reinvestor,2024,Liquidating Assets,Reinvestor -> Liquidating Assets
+JINDALSTEL,2023,Reinvestor,2024,Mixed,Reinvestor -> Mixed
+JIOFIN,2023,Reinvestor,2024,Distress Signal,Reinvestor -> Distress Signal
+KOTAKBANK,2023,Growth Funded by Debt,2024,Mixed,Growth Funded by Debt -> Mixed
+LODHA,2023,Liquidating Assets,2024,Mixed,Liquidating Assets -> Mixed
+LT,2023,Reinvestor,2024,Liquidating Assets,Reinvestor -> Liquidating Assets
+MOTHERSON,2023,Reinvestor,2024,Mixed,Reinvestor -> Mixed
+PNB,2023,Mixed,2024,Growth Funded by Debt,Mixed -> Growth Funded by Debt
+RELIANCE,2023,Mixed,2024,Reinvestor,Mixed -> Reinvestor
+SBIN,2023,Growth Funded by Debt,2024,Reinvestor,Growth Funded by Debt -> Reinvestor
+SHRIRAMFIN,2023,Distress Signal,2024,Growth Funded by Debt,Distress Signal -> Growth Funded by Debt
+SUNPHARMA,2023,Mixed,2024,Reinvestor,Mixed -> Reinvestor
+TATACONSUM,2023,Reinvestor,2024,Mixed,Reinvestor -> Mixed
+TATAPOWER,2023,Mixed,2024,Reinvestor,Mixed -> Reinvestor
+TITAN,2023,Mixed,2024,Reinvestor,Mixed -> Reinvestor
+TORNTPHARM,2023,Mixed,2024,Reinvestor,Mixed -> Reinvestor

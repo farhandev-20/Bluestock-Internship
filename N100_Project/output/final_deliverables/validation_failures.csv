@@ -1,0 +1,1171 @@
+rule_id,severity,table_name,record_id,column_name,invalid_value,failure_reason
+DQ-05,WARNING,profitandloss,73,year,nan,"Year is null or outside valid window [2000, 2030] (value: nan)"
+DQ-05,WARNING,profitandloss,97,year,nan,"Year is null or outside valid window [2000, 2030] (value: nan)"
+DQ-05,WARNING,profitandloss,110,year,nan,"Year is null or outside valid window [2000, 2030] (value: nan)"
+DQ-05,WARNING,profitandloss,119,year,nan,"Year is null or outside valid window [2000, 2030] (value: nan)"
+DQ-05,WARNING,profitandloss,132,year,nan,"Year is null or outside valid window [2000, 2030] (value: nan)"
+DQ-05,WARNING,profitandloss,145,year,nan,"Year is null or outside valid window [2000, 2030] (value: nan)"
+DQ-05,WARNING,profitandloss,158,year,nan,"Year is null or outside valid window [2000, 2030] (value: nan)"
+DQ-05,WARNING,profitandloss,171,year,nan,"Year is null or outside valid window [2000, 2030] (value: nan)"
+DQ-05,WARNING,profitandloss,184,year,nan,"Year is null or outside valid window [2000, 2030] (value: nan)"
+DQ-05,WARNING,profitandloss,197,year,nan,"Year is null or outside valid window [2000, 2030] (value: nan)"
+DQ-05,WARNING,profitandloss,205,year,nan,"Year is null or outside valid window [2000, 2030] (value: nan)"
+DQ-05,WARNING,profitandloss,218,year,nan,"Year is null or outside valid window [2000, 2030] (value: nan)"
+DQ-05,WARNING,profitandloss,231,year,nan,"Year is null or outside valid window [2000, 2030] (value: nan)"
+DQ-05,WARNING,profitandloss,244,year,nan,"Year is null or outside valid window [2000, 2030] (value: nan)"
+DQ-05,WARNING,profitandloss,257,year,nan,"Year is null or outside valid window [2000, 2030] (value: nan)"
+DQ-05,WARNING,profitandloss,268,year,nan,"Year is null or outside valid window [2000, 2030] (value: nan)"
+DQ-05,WARNING,profitandloss,281,year,nan,"Year is null or outside valid window [2000, 2030] (value: nan)"
+DQ-05,WARNING,profitandloss,294,year,nan,"Year is null or outside valid window [2000, 2030] (value: nan)"
+DQ-05,WARNING,profitandloss,307,year,nan,"Year is null or outside valid window [2000, 2030] (value: nan)"
+DQ-05,WARNING,profitandloss,320,year,nan,"Year is null or outside valid window [2000, 2030] (value: nan)"
+DQ-05,WARNING,profitandloss,333,year,nan,"Year is null or outside valid window [2000, 2030] (value: nan)"
+DQ-05,WARNING,profitandloss,346,year,nan,"Year is null or outside valid window [2000, 2030] (value: nan)"
+DQ-05,WARNING,profitandloss,359,year,nan,"Year is null or outside valid window [2000, 2030] (value: nan)"
+DQ-05,WARNING,profitandloss,372,year,nan,"Year is null or outside valid window [2000, 2030] (value: nan)"
+DQ-05,WARNING,profitandloss,385,year,nan,"Year is null or outside valid window [2000, 2030] (value: nan)"
+DQ-05,WARNING,profitandloss,398,year,nan,"Year is null or outside valid window [2000, 2030] (value: nan)"
+DQ-05,WARNING,profitandloss,411,year,nan,"Year is null or outside valid window [2000, 2030] (value: nan)"
+DQ-05,WARNING,profitandloss,424,year,nan,"Year is null or outside valid window [2000, 2030] (value: nan)"
+DQ-05,WARNING,profitandloss,437,year,nan,"Year is null or outside valid window [2000, 2030] (value: nan)"
+DQ-05,WARNING,profitandloss,450,year,nan,"Year is null or outside valid window [2000, 2030] (value: nan)"
+DQ-05,WARNING,profitandloss,463,year,nan,"Year is null or outside valid window [2000, 2030] (value: nan)"
+DQ-05,WARNING,profitandloss,476,year,nan,"Year is null or outside valid window [2000, 2030] (value: nan)"
+DQ-05,WARNING,profitandloss,489,year,nan,"Year is null or outside valid window [2000, 2030] (value: nan)"
+DQ-05,WARNING,profitandloss,502,year,nan,"Year is null or outside valid window [2000, 2030] (value: nan)"
+DQ-05,WARNING,profitandloss,515,year,nan,"Year is null or outside valid window [2000, 2030] (value: nan)"
+DQ-05,WARNING,profitandloss,528,year,nan,"Year is null or outside valid window [2000, 2030] (value: nan)"
+DQ-05,WARNING,profitandloss,541,year,nan,"Year is null or outside valid window [2000, 2030] (value: nan)"
+DQ-05,WARNING,profitandloss,554,year,nan,"Year is null or outside valid window [2000, 2030] (value: nan)"
+DQ-05,WARNING,profitandloss,567,year,nan,"Year is null or outside valid window [2000, 2030] (value: nan)"
+DQ-05,WARNING,profitandloss,580,year,nan,"Year is null or outside valid window [2000, 2030] (value: nan)"
+DQ-05,WARNING,profitandloss,593,year,nan,"Year is null or outside valid window [2000, 2030] (value: nan)"
+DQ-05,WARNING,profitandloss,605,year,nan,"Year is null or outside valid window [2000, 2030] (value: nan)"
+DQ-05,WARNING,profitandloss,618,year,nan,"Year is null or outside valid window [2000, 2030] (value: nan)"
+DQ-05,WARNING,profitandloss,631,year,nan,"Year is null or outside valid window [2000, 2030] (value: nan)"
+DQ-05,WARNING,profitandloss,644,year,nan,"Year is null or outside valid window [2000, 2030] (value: nan)"
+DQ-05,WARNING,profitandloss,657,year,nan,"Year is null or outside valid window [2000, 2030] (value: nan)"
+DQ-05,WARNING,profitandloss,670,year,nan,"Year is null or outside valid window [2000, 2030] (value: nan)"
+DQ-05,WARNING,profitandloss,709,year,nan,"Year is null or outside valid window [2000, 2030] (value: nan)"
+DQ-05,WARNING,profitandloss,722,year,nan,"Year is null or outside valid window [2000, 2030] (value: nan)"
+DQ-05,WARNING,profitandloss,735,year,nan,"Year is null or outside valid window [2000, 2030] (value: nan)"
+DQ-05,WARNING,profitandloss,746,year,nan,"Year is null or outside valid window [2000, 2030] (value: nan)"
+DQ-05,WARNING,profitandloss,759,year,nan,"Year is null or outside valid window [2000, 2030] (value: nan)"
+DQ-05,WARNING,profitandloss,772,year,nan,"Year is null or outside valid window [2000, 2030] (value: nan)"
+DQ-05,WARNING,profitandloss,785,year,nan,"Year is null or outside valid window [2000, 2030] (value: nan)"
+DQ-05,WARNING,profitandloss,788,year,nan,"Year is null or outside valid window [2000, 2030] (value: nan)"
+DQ-05,WARNING,profitandloss,801,year,nan,"Year is null or outside valid window [2000, 2030] (value: nan)"
+DQ-05,WARNING,profitandloss,814,year,nan,"Year is null or outside valid window [2000, 2030] (value: nan)"
+DQ-05,WARNING,profitandloss,827,year,nan,"Year is null or outside valid window [2000, 2030] (value: nan)"
+DQ-05,WARNING,profitandloss,834,year,nan,"Year is null or outside valid window [2000, 2030] (value: nan)"
+DQ-05,WARNING,profitandloss,847,year,nan,"Year is null or outside valid window [2000, 2030] (value: nan)"
+DQ-05,WARNING,profitandloss,860,year,nan,"Year is null or outside valid window [2000, 2030] (value: nan)"
+DQ-05,WARNING,profitandloss,873,year,nan,"Year is null or outside valid window [2000, 2030] (value: nan)"
+DQ-05,WARNING,profitandloss,886,year,nan,"Year is null or outside valid window [2000, 2030] (value: nan)"
+DQ-05,WARNING,profitandloss,899,year,nan,"Year is null or outside valid window [2000, 2030] (value: nan)"
+DQ-05,WARNING,profitandloss,912,year,nan,"Year is null or outside valid window [2000, 2030] (value: nan)"
+DQ-05,WARNING,profitandloss,925,year,nan,"Year is null or outside valid window [2000, 2030] (value: nan)"
+DQ-05,WARNING,profitandloss,938,year,nan,"Year is null or outside valid window [2000, 2030] (value: nan)"
+DQ-05,WARNING,profitandloss,951,year,nan,"Year is null or outside valid window [2000, 2030] (value: nan)"
+DQ-05,WARNING,profitandloss,964,year,nan,"Year is null or outside valid window [2000, 2030] (value: nan)"
+DQ-05,WARNING,profitandloss,977,year,nan,"Year is null or outside valid window [2000, 2030] (value: nan)"
+DQ-05,WARNING,profitandloss,990,year,nan,"Year is null or outside valid window [2000, 2030] (value: nan)"
+DQ-05,WARNING,profitandloss,1003,year,nan,"Year is null or outside valid window [2000, 2030] (value: nan)"
+DQ-05,WARNING,profitandloss,1016,year,nan,"Year is null or outside valid window [2000, 2030] (value: nan)"
+DQ-05,WARNING,profitandloss,1029,year,nan,"Year is null or outside valid window [2000, 2030] (value: nan)"
+DQ-05,WARNING,profitandloss,1042,year,nan,"Year is null or outside valid window [2000, 2030] (value: nan)"
+DQ-05,WARNING,profitandloss,1055,year,nan,"Year is null or outside valid window [2000, 2030] (value: nan)"
+DQ-05,WARNING,profitandloss,1068,year,nan,"Year is null or outside valid window [2000, 2030] (value: nan)"
+DQ-05,WARNING,profitandloss,1081,year,nan,"Year is null or outside valid window [2000, 2030] (value: nan)"
+DQ-05,WARNING,profitandloss,1094,year,nan,"Year is null or outside valid window [2000, 2030] (value: nan)"
+DQ-05,WARNING,profitandloss,1107,year,nan,"Year is null or outside valid window [2000, 2030] (value: nan)"
+DQ-05,WARNING,profitandloss,1132,year,nan,"Year is null or outside valid window [2000, 2030] (value: nan)"
+DQ-05,WARNING,profitandloss,1145,year,nan,"Year is null or outside valid window [2000, 2030] (value: nan)"
+DQ-05,WARNING,profitandloss,1158,year,nan,"Year is null or outside valid window [2000, 2030] (value: nan)"
+DQ-05,WARNING,profitandloss,1171,year,nan,"Year is null or outside valid window [2000, 2030] (value: nan)"
+DQ-05,WARNING,profitandloss,1184,year,nan,"Year is null or outside valid window [2000, 2030] (value: nan)"
+DQ-05,WARNING,profitandloss,1197,year,nan,"Year is null or outside valid window [2000, 2030] (value: nan)"
+DQ-05,WARNING,profitandloss,1210,year,nan,"Year is null or outside valid window [2000, 2030] (value: nan)"
+DQ-05,WARNING,profitandloss,1223,year,nan,"Year is null or outside valid window [2000, 2030] (value: nan)"
+DQ-05,WARNING,profitandloss,1236,year,nan,"Year is null or outside valid window [2000, 2030] (value: nan)"
+DQ-05,WARNING,profitandloss,1249,year,nan,"Year is null or outside valid window [2000, 2030] (value: nan)"
+DQ-05,WARNING,profitandloss,1262,year,nan,"Year is null or outside valid window [2000, 2030] (value: nan)"
+DQ-05,WARNING,profitandloss,1275,year,nan,"Year is null or outside valid window [2000, 2030] (value: nan)"
+DQ-05,WARNING,profitandloss,1288,year,nan,"Year is null or outside valid window [2000, 2030] (value: nan)"
+DQ-05,WARNING,profitandloss,1301,year,nan,"Year is null or outside valid window [2000, 2030] (value: nan)"
+DQ-05,WARNING,profitandloss,1314,year,nan,"Year is null or outside valid window [2000, 2030] (value: nan)"
+DQ-05,WARNING,profitandloss,1327,year,nan,"Year is null or outside valid window [2000, 2030] (value: nan)"
+DQ-05,WARNING,profitandloss,1340,year,nan,"Year is null or outside valid window [2000, 2030] (value: nan)"
+DQ-05,WARNING,profitandloss,1348,year,nan,"Year is null or outside valid window [2000, 2030] (value: nan)"
+DQ-05,WARNING,profitandloss,1361,year,nan,"Year is null or outside valid window [2000, 2030] (value: nan)"
+DQ-05,WARNING,profitandloss,1374,year,nan,"Year is null or outside valid window [2000, 2030] (value: nan)"
+DQ-08,WARNING,stock_prices,30,ohlc,"O=3362.05, H=3339.06, L=3241.42, C=3300.45",High price is below Open/Close or Low price is above Open/Close
+DQ-08,WARNING,stock_prices,75,ohlc,"O=5575.31, H=5571.95, L=5000.52, C=5489.61",High price is below Open/Close or Low price is above Open/Close
+DQ-08,WARNING,stock_prices,83,ohlc,"O=4760.63, H=4742.96, L=4551.21, C=4667.34",High price is below Open/Close or Low price is above Open/Close
+DQ-08,WARNING,stock_prices,102,ohlc,"O=4113.49, H=4106.31, L=3675.98, C=4049.47",High price is below Open/Close or Low price is above Open/Close
+DQ-08,WARNING,stock_prices,129,ohlc,"O=5221.43, H=5214.32, L=4849.1, C=5143.91",High price is below Open/Close or Low price is above Open/Close
+DQ-08,WARNING,stock_prices,144,ohlc,"O=6171.41, H=6128.97, L=5774.78, C=6059.65",High price is below Open/Close or Low price is above Open/Close
+DQ-08,WARNING,stock_prices,177,ohlc,"O=9234.12, H=9730.42, L=9300.6, C=9407.43",High price is below Open/Close or Low price is above Open/Close
+DQ-08,WARNING,stock_prices,194,ohlc,"O=4182.59, H=4179.52, L=4057.13, C=4112.23",High price is below Open/Close or Low price is above Open/Close
+DQ-08,WARNING,stock_prices,212,ohlc,"O=4994.85, H=5663.47, L=5001.81, C=5069.87",High price is below Open/Close or Low price is above Open/Close
+DQ-08,WARNING,stock_prices,253,ohlc,"O=1172.75, H=1169.27, L=1029.9, C=1152.75",High price is below Open/Close or Low price is above Open/Close
+DQ-08,WARNING,stock_prices,342,ohlc,"O=1623.59, H=1609.82, L=1444.4, C=1592.27",High price is below Open/Close or Low price is above Open/Close
+DQ-08,WARNING,stock_prices,395,ohlc,"O=430.13, H=463.66, L=431.29, C=436.66",High price is below Open/Close or Low price is above Open/Close
+DQ-08,WARNING,stock_prices,426,ohlc,"O=3199.24, H=3592.77, L=3215.54, C=3264.32",High price is below Open/Close or Low price is above Open/Close
+DQ-08,WARNING,stock_prices,444,ohlc,"O=4756.05, H=5163.26, L=4777.77, C=4845.4",High price is below Open/Close or Low price is above Open/Close
+DQ-08,WARNING,stock_prices,466,ohlc,"O=3453.25, H=3445.88, L=3373.57, C=3408.47",High price is below Open/Close or Low price is above Open/Close
+DQ-08,WARNING,stock_prices,499,ohlc,"O=1990.06, H=2165.93, L=2003.63, C=2029.27",High price is below Open/Close or Low price is above Open/Close
+DQ-08,WARNING,stock_prices,502,ohlc,"O=2349.33, H=2589.23, L=2364.22, C=2394.97",High price is below Open/Close or Low price is above Open/Close
+DQ-08,WARNING,stock_prices,567,ohlc,"O=2164.51, H=2382.84, L=2172.13, C=2201.76",High price is below Open/Close or Low price is above Open/Close
+DQ-08,WARNING,stock_prices,568,ohlc,"O=2057.03, H=2129.45, L=2059.07, C=2091.15",High price is below Open/Close or Low price is above Open/Close
+DQ-08,WARNING,stock_prices,709,ohlc,"O=9620.33, H=10015.53, L=9670.98, C=9789.8",High price is below Open/Close or Low price is above Open/Close
+DQ-08,WARNING,stock_prices,726,ohlc,"O=4559.69, H=4557.17, L=4159.66, C=4491.54",High price is below Open/Close or Low price is above Open/Close
+DQ-08,WARNING,stock_prices,733,ohlc,"O=4465.14, H=4444.05, L=3986.64, C=4381.31",High price is below Open/Close or Low price is above Open/Close
+DQ-08,WARNING,stock_prices,774,ohlc,"O=5911.92, H=6543.6, L=5936.1, C=6032.3",High price is below Open/Close or Low price is above Open/Close
+DQ-08,WARNING,stock_prices,853,ohlc,"O=1402.64, H=1402.06, L=1318.77, C=1386.09",High price is below Open/Close or Low price is above Open/Close
+DQ-08,WARNING,stock_prices,894,ohlc,"O=2072.69, H=2252.44, L=2083.73, C=2106.61",High price is below Open/Close or Low price is above Open/Close
+DQ-08,WARNING,stock_prices,895,ohlc,"O=2029.96, H=2025.98, L=1852.83, C=2004.4",High price is below Open/Close or Low price is above Open/Close
+DQ-08,WARNING,stock_prices,972,ohlc,"O=1958.82, H=1958.13, L=1709.53, C=1934.32",High price is below Open/Close or Low price is above Open/Close
+DQ-08,WARNING,stock_prices,1048,ohlc,"O=3673.83, H=4120.21, L=3690.94, C=3738.84",High price is below Open/Close or Low price is above Open/Close
+DQ-08,WARNING,stock_prices,1061,ohlc,"O=4041.74, H=4038.33, L=3533.37, C=3990.74",High price is below Open/Close or Low price is above Open/Close
+DQ-08,WARNING,stock_prices,1116,ohlc,"O=2271.01, H=2269.07, L=2041.31, C=2227.53",High price is below Open/Close or Low price is above Open/Close
+DQ-08,WARNING,stock_prices,1269,ohlc,"O=795.34, H=859.68, L=800.55, C=809.12",High price is below Open/Close or Low price is above Open/Close
+DQ-08,WARNING,stock_prices,1293,ohlc,"O=385.93, H=421.36, L=386.74, C=392.48",High price is below Open/Close or Low price is above Open/Close
+DQ-08,WARNING,stock_prices,1323,ohlc,"O=1377.01, H=1416.56, L=1380.07, C=1396.44",High price is below Open/Close or Low price is above Open/Close
+DQ-08,WARNING,stock_prices,1361,ohlc,"O=2232.84, H=2514.23, L=2238.57, C=2268.22",High price is below Open/Close or Low price is above Open/Close
+DQ-08,WARNING,stock_prices,1416,ohlc,"O=1414.51, H=1583.4, L=1421.68, C=1436.76",High price is below Open/Close or Low price is above Open/Close
+DQ-08,WARNING,stock_prices,1439,ohlc,"O=1936.14, H=2062.48, L=1948.85, C=1972.13",High price is below Open/Close or Low price is above Open/Close
+DQ-08,WARNING,stock_prices,1447,ohlc,"O=2300.54, H=2558.87, L=2309.86, C=2342.38",High price is below Open/Close or Low price is above Open/Close
+DQ-08,WARNING,stock_prices,1588,ohlc,"O=1514.23, H=1572.09, L=1519.2, C=1536.96",High price is below Open/Close or Low price is above Open/Close
+DQ-08,WARNING,stock_prices,1624,ohlc,"O=3264.08, H=3435.69, L=3266.19, C=3317.47",High price is below Open/Close or Low price is above Open/Close
+DQ-08,WARNING,stock_prices,1625,ohlc,"O=3641.92, H=3633.84, L=3397.8, C=3589.89",High price is below Open/Close or Low price is above Open/Close
+DQ-08,WARNING,stock_prices,1707,ohlc,"O=2251.7, H=2243.87, L=2023.06, C=2211.83",High price is below Open/Close or Low price is above Open/Close
+DQ-08,WARNING,stock_prices,1738,ohlc,"O=4263.63, H=4247.47, L=3843.33, C=4194.7",High price is below Open/Close or Low price is above Open/Close
+DQ-08,WARNING,stock_prices,1884,ohlc,"O=1003.37, H=1039.03, L=1008.43, C=1021.33",High price is below Open/Close or Low price is above Open/Close
+DQ-08,WARNING,stock_prices,1895,ohlc,"O=1139.19, H=1133.34, L=1108.38, C=1121.46",High price is below Open/Close or Low price is above Open/Close
+DQ-08,WARNING,stock_prices,1939,ohlc,"O=327.42, H=361.41, L=328.08, C=333.53",High price is below Open/Close or Low price is above Open/Close
+DQ-08,WARNING,stock_prices,2067,ohlc,"O=6860.47, H=6836.31, L=6606.33, C=6726.04",High price is below Open/Close or Low price is above Open/Close
+DQ-08,WARNING,stock_prices,2219,ohlc,"O=2338.34, H=2473.99, L=2342.5, C=2370.13",High price is below Open/Close or Low price is above Open/Close
+DQ-08,WARNING,stock_prices,2269,ohlc,"O=1034.37, H=1162.43, L=1039.37, C=1052.89",High price is below Open/Close or Low price is above Open/Close
+DQ-08,WARNING,stock_prices,2274,ohlc,"O=834.13, H=890.93, L=835.62, C=845.64",High price is below Open/Close or Low price is above Open/Close
+DQ-08,WARNING,stock_prices,2310,ohlc,"O=4313.19, H=4596.85, L=4343.95, C=4391.71",High price is below Open/Close or Low price is above Open/Close
+DQ-08,WARNING,stock_prices,2324,ohlc,"O=4584.29, H=4548.92, L=4439.99, C=4499.81",High price is below Open/Close or Low price is above Open/Close
+DQ-08,WARNING,stock_prices,2341,ohlc,"O=2323.39, H=2440.24, L=2330.18, C=2361.06",High price is below Open/Close or Low price is above Open/Close
+DQ-08,WARNING,stock_prices,2418,ohlc,"O=920.43, H=913.04, L=805.36, C=903.75",High price is below Open/Close or Low price is above Open/Close
+DQ-08,WARNING,stock_prices,2433,ohlc,"O=716.03, H=748.13, L=718.47, C=727.47",High price is below Open/Close or Low price is above Open/Close
+DQ-08,WARNING,stock_prices,2504,ohlc,"O=2805.58, H=2799.68, L=2658.35, C=2765.51",High price is below Open/Close or Low price is above Open/Close
+DQ-08,WARNING,stock_prices,2550,ohlc,"O=441.55, H=440.68, L=408.28, C=434.12",High price is below Open/Close or Low price is above Open/Close
+DQ-08,WARNING,stock_prices,2571,ohlc,"O=308.95, H=347.66, L=310.51, C=313.71",High price is below Open/Close or Low price is above Open/Close
+DQ-08,WARNING,stock_prices,2576,ohlc,"O=410.07, H=406.56, L=378.97, C=402.48",High price is below Open/Close or Low price is above Open/Close
+DQ-08,WARNING,stock_prices,2690,ohlc,"O=1896.75, H=1886.72, L=1790.8, C=1859.89",High price is below Open/Close or Low price is above Open/Close
+DQ-08,WARNING,stock_prices,2708,ohlc,"O=3624.0, H=3786.23, L=3631.98, C=3691.19",High price is below Open/Close or Low price is above Open/Close
+DQ-08,WARNING,stock_prices,2786,ohlc,"O=2491.79, H=2576.72, L=2494.59, C=2522.2",High price is below Open/Close or Low price is above Open/Close
+DQ-08,WARNING,stock_prices,2847,ohlc,"O=4417.94, H=4397.92, L=4114.72, C=4340.65",High price is below Open/Close or Low price is above Open/Close
+DQ-08,WARNING,stock_prices,2901,ohlc,"O=4302.19, H=4279.37, L=3951.08, C=4231.41",High price is below Open/Close or Low price is above Open/Close
+DQ-08,WARNING,stock_prices,2966,ohlc,"O=754.68, H=753.81, L=718.87, C=746.05",High price is below Open/Close or Low price is above Open/Close
+DQ-08,WARNING,stock_prices,2972,ohlc,"O=1108.96, H=1108.65, L=1072.45, C=1097.64",High price is below Open/Close or Low price is above Open/Close
+DQ-08,WARNING,stock_prices,3029,ohlc,"O=6671.26, H=6640.61, L=5999.08, C=6543.04",High price is below Open/Close or Low price is above Open/Close
+DQ-08,WARNING,stock_prices,3037,ohlc,"O=7278.95, H=7783.24, L=7343.22, C=7420.09",High price is below Open/Close or Low price is above Open/Close
+DQ-08,WARNING,stock_prices,3054,ohlc,"O=9591.45, H=10801.8, L=9610.39, C=9745.82",High price is below Open/Close or Low price is above Open/Close
+DQ-08,WARNING,stock_prices,3066,ohlc,"O=4237.71, H=4461.3, L=4256.11, C=4310.89",High price is below Open/Close or Low price is above Open/Close
+DQ-08,WARNING,stock_prices,3075,ohlc,"O=4106.48, H=4240.86, L=4131.9, C=4175.38",High price is below Open/Close or Low price is above Open/Close
+DQ-08,WARNING,stock_prices,3114,ohlc,"O=5321.02, H=5283.65, L=5043.35, C=5219.03",High price is below Open/Close or Low price is above Open/Close
+DQ-08,WARNING,stock_prices,3182,ohlc,"O=5097.91, H=5489.38, L=5106.78, C=5186.99",High price is below Open/Close or Low price is above Open/Close
+DQ-08,WARNING,stock_prices,3191,ohlc,"O=6236.09, H=6911.64, L=6286.65, C=6354.45",High price is below Open/Close or Low price is above Open/Close
+DQ-08,WARNING,stock_prices,3221,ohlc,"O=6815.33, H=7219.47, L=6835.03, C=6928.05",High price is below Open/Close or Low price is above Open/Close
+DQ-08,WARNING,stock_prices,3266,ohlc,"O=5753.57, H=5710.95, L=5455.35, C=5648.39",High price is below Open/Close or Low price is above Open/Close
+DQ-08,WARNING,stock_prices,3288,ohlc,"O=8502.48, H=9373.47, L=8506.92, C=8599.67",High price is below Open/Close or Low price is above Open/Close
+DQ-08,WARNING,stock_prices,3289,ohlc,"O=8469.8, H=8454.55, L=7987.84, C=8364.35",High price is below Open/Close or Low price is above Open/Close
+DQ-08,WARNING,stock_prices,3300,ohlc,"O=9759.81, H=11055.34, L=9841.56, C=9945.52",High price is below Open/Close or Low price is above Open/Close
+DQ-08,WARNING,stock_prices,3311,ohlc,"O=5046.93, H=5681.39, L=5058.05, C=5148.26",High price is below Open/Close or Low price is above Open/Close
+DQ-08,WARNING,stock_prices,3327,ohlc,"O=8436.25, H=9530.12, L=8475.13, C=8570.33",High price is below Open/Close or Low price is above Open/Close
+DQ-08,WARNING,stock_prices,3340,ohlc,"O=9290.93, H=9280.72, L=8247.47, C=9172.55",High price is below Open/Close or Low price is above Open/Close
+DQ-08,WARNING,stock_prices,3342,ohlc,"O=8619.9, H=8610.1, L=8107.53, C=8452.59",High price is below Open/Close or Low price is above Open/Close
+DQ-08,WARNING,stock_prices,3345,ohlc,"O=6328.2, H=7176.04, L=6352.98, C=6424.02",High price is below Open/Close or Low price is above Open/Close
+DQ-08,WARNING,stock_prices,3353,ohlc,"O=7059.52, H=7601.52, L=7105.17, C=7199.04",High price is below Open/Close or Low price is above Open/Close
+DQ-08,WARNING,stock_prices,3463,ohlc,"O=1415.31, H=1458.23, L=1418.05, C=1436.48",High price is below Open/Close or Low price is above Open/Close
+DQ-08,WARNING,stock_prices,3487,ohlc,"O=281.64, H=311.59, L=282.36, C=286.39",High price is below Open/Close or Low price is above Open/Close
+DQ-08,WARNING,stock_prices,3639,ohlc,"O=2472.11, H=2816.44, L=2489.76, C=2516.0",High price is below Open/Close or Low price is above Open/Close
+DQ-08,WARNING,stock_prices,3658,ohlc,"O=2917.68, H=3216.88, L=2935.62, C=2966.18",High price is below Open/Close or Low price is above Open/Close
+DQ-08,WARNING,stock_prices,3795,ohlc,"O=1779.51, H=1971.05, L=1780.41, C=1805.24",High price is below Open/Close or Low price is above Open/Close
+DQ-08,WARNING,stock_prices,3845,ohlc,"O=1511.03, H=1604.36, L=1517.6, C=1541.64",High price is below Open/Close or Low price is above Open/Close
+DQ-08,WARNING,stock_prices,3880,ohlc,"O=2547.79, H=2545.54, L=2365.34, C=2501.67",High price is below Open/Close or Low price is above Open/Close
+DQ-08,WARNING,stock_prices,3950,ohlc,"O=3512.2, H=3775.02, L=3519.14, C=3570.82",High price is below Open/Close or Low price is above Open/Close
+DQ-08,WARNING,stock_prices,3997,ohlc,"O=500.46, H=499.78, L=443.34, C=494.48",High price is below Open/Close or Low price is above Open/Close
+DQ-08,WARNING,stock_prices,4067,ohlc,"O=8927.35, H=8875.96, L=7776.26, C=8764.38",High price is below Open/Close or Low price is above Open/Close
+DQ-08,WARNING,stock_prices,4170,ohlc,"O=7757.04, H=7731.56, L=7191.33, C=7609.18",High price is below Open/Close or Low price is above Open/Close
+DQ-08,WARNING,stock_prices,4234,ohlc,"O=7809.71, H=7807.18, L=7551.47, C=7696.24",High price is below Open/Close or Low price is above Open/Close
+DQ-08,WARNING,stock_prices,4246,ohlc,"O=6799.54, H=6772.9, L=6527.33, C=6667.23",High price is below Open/Close or Low price is above Open/Close
+DQ-08,WARNING,stock_prices,4297,ohlc,"O=764.07, H=762.91, L=718.22, C=749.18",High price is below Open/Close or Low price is above Open/Close
+DQ-08,WARNING,stock_prices,4350,ohlc,"O=139.09, H=138.76, L=129.07, C=136.49",High price is below Open/Close or Low price is above Open/Close
+DQ-08,WARNING,stock_prices,4439,ohlc,"O=6672.46, H=6653.54, L=6444.57, C=6547.57",High price is below Open/Close or Low price is above Open/Close
+DQ-08,WARNING,stock_prices,4445,ohlc,"O=4164.6, H=4149.22, L=3866.96, C=4094.41",High price is below Open/Close or Low price is above Open/Close
+DQ-08,WARNING,stock_prices,4455,ohlc,"O=5782.74, H=5746.03, L=5610.99, C=5687.84",High price is below Open/Close or Low price is above Open/Close
+DQ-08,WARNING,stock_prices,4534,ohlc,"O=2508.51, H=2805.45, L=2522.75, C=2555.62",High price is below Open/Close or Low price is above Open/Close
+DQ-08,WARNING,stock_prices,4555,ohlc,"O=2221.78, H=2322.12, L=2225.64, C=2261.27",High price is below Open/Close or Low price is above Open/Close
+DQ-08,WARNING,stock_prices,4639,ohlc,"O=651.56, H=690.19, L=655.88, C=664.67",High price is below Open/Close or Low price is above Open/Close
+DQ-08,WARNING,stock_prices,4694,ohlc,"O=1218.67, H=1303.82, L=1228.08, C=1243.17",High price is below Open/Close or Low price is above Open/Close
+DQ-08,WARNING,stock_prices,4727,ohlc,"O=2644.65, H=2638.67, L=2554.78, C=2601.72",High price is below Open/Close or Low price is above Open/Close
+DQ-08,WARNING,stock_prices,4737,ohlc,"O=2517.31, H=2767.58, L=2523.14, C=2562.33",High price is below Open/Close or Low price is above Open/Close
+DQ-08,WARNING,stock_prices,4738,ohlc,"O=2570.15, H=2817.21, L=2581.18, C=2617.1",High price is below Open/Close or Low price is above Open/Close
+DQ-08,WARNING,stock_prices,4766,ohlc,"O=1127.48, H=1188.01, L=1130.95, C=1148.76",High price is below Open/Close or Low price is above Open/Close
+DQ-08,WARNING,stock_prices,4771,ohlc,"O=1524.11, H=1524.1, L=1388.0, C=1501.14",High price is below Open/Close or Low price is above Open/Close
+DQ-08,WARNING,stock_prices,4793,ohlc,"O=1149.16, H=1148.96, L=1027.38, C=1136.84",High price is below Open/Close or Low price is above Open/Close
+DQ-08,WARNING,stock_prices,4819,ohlc,"O=4058.13, H=4592.62, L=4073.55, C=4140.4",High price is below Open/Close or Low price is above Open/Close
+DQ-08,WARNING,stock_prices,5123,ohlc,"O=2277.36, H=2345.02, L=2284.53, C=2314.96",High price is below Open/Close or Low price is above Open/Close
+DQ-08,WARNING,stock_prices,5215,ohlc,"O=5044.73, H=5042.8, L=4613.67, C=4966.5",High price is below Open/Close or Low price is above Open/Close
+DQ-08,WARNING,stock_prices,5341,ohlc,"O=2333.77, H=2560.3, L=2339.89, C=2375.4",High price is below Open/Close or Low price is above Open/Close
+DQ-08,WARNING,stock_prices,5375,ohlc,"O=1784.99, H=1777.19, L=1662.67, C=1755.51",High price is below Open/Close or Low price is above Open/Close
+DQ-08,WARNING,stock_prices,5385,ohlc,"O=1952.98, H=1952.57, L=1703.72, C=1915.22",High price is below Open/Close or Low price is above Open/Close
+DQ-08,WARNING,stock_prices,5399,ohlc,"O=2158.88, H=2318.0, L=2164.57, C=2193.28",High price is below Open/Close or Low price is above Open/Close
+DQ-08,WARNING,stock_prices,5447,ohlc,"O=1442.21, H=1594.47, L=1446.87, C=1466.02",High price is below Open/Close or Low price is above Open/Close
+DQ-11,WARNING,balancesheet,197,components,"calc_assets=59054, actual_assets=58954, calc_liab=58954.0, actual_liab=58954",Sub-component summation differs from reported balance sheet total
+DQ-11,WARNING,balancesheet,226,components,"calc_assets=110786, actual_assets=110784, calc_liab=110784.0, actual_liab=110784",Sub-component summation differs from reported balance sheet total
+DQ-11,WARNING,balancesheet,228,components,"calc_assets=12958, actual_assets=12956, calc_liab=12956.0, actual_liab=12956",Sub-component summation differs from reported balance sheet total
+DQ-11,WARNING,balancesheet,254,components,"calc_assets=8077, actual_assets=8075, calc_liab=8075.0, actual_liab=8075",Sub-component summation differs from reported balance sheet total
+DQ-11,WARNING,balancesheet,267,components,"calc_assets=8077, actual_assets=8075, calc_liab=8075.0, actual_liab=8075",Sub-component summation differs from reported balance sheet total
+DQ-11,WARNING,balancesheet,286,components,"calc_assets=6844, actual_assets=6842, calc_liab=6842.0, actual_liab=6842",Sub-component summation differs from reported balance sheet total
+DQ-11,WARNING,balancesheet,385,components,"calc_assets=442019, actual_assets=442019, calc_liab=442619.0, actual_liab=442019",Sub-component summation differs from reported balance sheet total
+DQ-11,WARNING,balancesheet,665,components,"calc_assets=2122934, actual_assets=2122934, calc_liab=2122936.0, actual_liab=2122934",Sub-component summation differs from reported balance sheet total
+DQ-11,WARNING,balancesheet,756,components,"calc_assets=326837, actual_assets=326838, calc_liab=325637.0, actual_liab=326838",Sub-component summation differs from reported balance sheet total
+DQ-11,WARNING,balancesheet,977,components,"calc_assets=27897, actual_assets=27998, calc_liab=27898.0, actual_liab=27998",Sub-component summation differs from reported balance sheet total
+DQ-11,WARNING,balancesheet,984,components,"calc_assets=38405, actual_assets=38404, calc_liab=38406.0, actual_liab=38404",Sub-component summation differs from reported balance sheet total
+DQ-11,WARNING,balancesheet,1201,components,"calc_assets=7988, actual_assets=7986, calc_liab=7986.0, actual_liab=7986",Sub-component summation differs from reported balance sheet total
+DQ-11,WARNING,balancesheet,1341,components,"calc_assets=13190, actual_assets=13190, calc_liab=13192.0, actual_liab=13190",Sub-component summation differs from reported balance sheet total
+DQ-11,WARNING,balancesheet,1453,components,"calc_assets=67257, actual_assets=67257, calc_liab=67255.0, actual_liab=67257",Sub-component summation differs from reported balance sheet total
+DQ-12,WARNING,cashflow,1167,net_cash_flow,"calc_net=-128.0, reported_net=532.0","Sum of Operating, Investing, and Financing flows does not reconcile with Net Cash Flow"
+DQ-15,WARNING,documents,26,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,27,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,28,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,29,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,30,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,31,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,32,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,56,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,57,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,58,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,59,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,60,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,61,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,62,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,63,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,64,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,70,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,71,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,72,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,74,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,75,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,76,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,77,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,79,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,80,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,90,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,91,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,92,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,94,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,95,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,96,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,107,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,108,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,109,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,111,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,112,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,118,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,122,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,127,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,128,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,140,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,141,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,143,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,144,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,151,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,152,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,153,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,154,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,155,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,156,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,157,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,158,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,159,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,160,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,175,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,176,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,187,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,191,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,192,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,207,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,208,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,223,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,224,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,239,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,240,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,351,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,352,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,367,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,368,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,378,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,383,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,384,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,399,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,400,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,415,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,431,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,432,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,447,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,448,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,457,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,458,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,459,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,460,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,461,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,462,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,463,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,464,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,478,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,479,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,480,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,495,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,496,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,511,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,512,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,527,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,528,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,543,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,544,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,561,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,574,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,575,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,589,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,590,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,591,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,603,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,605,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,606,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,607,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,620,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,621,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,622,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,623,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,624,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,640,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,641,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,656,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,657,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,672,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,673,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,689,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,705,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,719,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,720,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,721,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,731,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,732,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,733,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,734,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,735,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,736,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,737,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,752,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,753,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,768,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,769,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,770,annual_report,bseindia.com/xml-data/corpfiling/AttachHis/24a0940c-fa5a-4e36-a404-9dab3637ea0c.pdf,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,771,annual_report,bseindia.com/xml-data/corpfiling/AttachHis//ae413f27-7b30-4cdb-8f1b-8d82e5914e54.pdf,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,784,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,785,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,791,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,792,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,793,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,794,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,795,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,796,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,797,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,798,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,799,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,800,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,801,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,806,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,807,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,808,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,809,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,810,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,811,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,812,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,813,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,814,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,815,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,816,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,817,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,851,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,852,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,853,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,854,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,855,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,856,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,857,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,858,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,859,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,860,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,861,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,862,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,863,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,864,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,865,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,879,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,880,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,881,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,896,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,897,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,899,annual_report,bseindia.com/xml-data/corpfiling/AttachHis//b9e0c871-3353-4ef4-855e-069bcfd848e1.pdf,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,900,annual_report,bseindia.com/bseplus/AnnualReport/500247/73932500247.pdf,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,901,annual_report,bseindia.com/bseplus/AnnualReport/500247/69160500247.pdf,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,905,annual_report,bseindia.com/bseplus/AnnualReport/500247/5002470317.pdf,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,906,annual_report,5002470316.pdf,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,907,annual_report,5002470315.pdf,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,909,annual_report,untitled,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,910,annual_report,bseindia.com/bseplus/AnnualReport/500247/5002470312.pdf,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,911,annual_report,5002470311.pdf,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,912,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,913,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,920,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,921,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,922,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,923,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,924,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,925,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,926,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,927,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,928,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,929,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,934,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,935,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,936,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,937,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,938,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,939,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,940,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,941,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,942,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,943,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,944,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,945,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,960,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,961,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,970,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,971,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,972,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,973,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,974,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,975,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,976,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,977,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,992,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,993,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,1008,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,1009,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,1024,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,1025,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,1040,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,1041,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,1072,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,1073,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,1088,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,1089,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,1103,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,1104,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,1105,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,1120,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,1121,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,1135,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,1136,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,1137,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,1152,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,1153,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,1168,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,1169,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,1183,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,1184,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,1185,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,1199,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,1200,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,1201,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,1209,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,1210,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,1211,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,1212,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,1213,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,1214,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,1215,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,1216,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,1217,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,1233,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,1247,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,1248,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,1249,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,1263,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,1264,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,1265,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,1280,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,1281,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,1312,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,1313,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,1328,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,1329,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,1344,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,1345,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,1360,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,1361,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,1376,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,1377,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,1390,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,1391,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,1392,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,1393,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,1407,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,1408,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,1409,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,1424,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,1425,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,1440,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,1441,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,1456,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,1457,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,1471,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,1472,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,1473,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,1488,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,1489,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,1503,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,1504,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,1505,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,1506,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,1515,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,1516,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,1517,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,1518,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,1519,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,1520,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,1521,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,1536,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,1537,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,1552,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,1553,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,1557,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,1558,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,1559,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,1560,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,1561,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,1562,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,1563,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,1564,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,1565,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,1566,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,1567,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,1568,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,1569,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,1584,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-15,WARNING,documents,1585,annual_report,Null,Annual report URL does not start with http:// or https://
+DQ-16,WARNING,balancesheet,147,"['company_id', 'year']","company_id=ABB, year=2024","Duplicate composite key observation (company_id=ABB, year=2024)"
+DQ-16,WARNING,balancesheet,148,"['company_id', 'year']","company_id=ABB, year=2024","Duplicate composite key observation (company_id=ABB, year=2024)"
+DQ-16,WARNING,balancesheet,159,"['company_id', 'year']","company_id=ADANIENSOL, year=2024","Duplicate composite key observation (company_id=ADANIENSOL, year=2024)"
+DQ-16,WARNING,balancesheet,160,"['company_id', 'year']","company_id=ADANIENSOL, year=2024","Duplicate composite key observation (company_id=ADANIENSOL, year=2024)"
+DQ-16,WARNING,balancesheet,181,"['company_id', 'year']","company_id=ADANIENT, year=2024","Duplicate composite key observation (company_id=ADANIENT, year=2024)"
+DQ-16,WARNING,balancesheet,182,"['company_id', 'year']","company_id=ADANIENT, year=2024","Duplicate composite key observation (company_id=ADANIENT, year=2024)"
+DQ-16,WARNING,balancesheet,199,"['company_id', 'year']","company_id=ADANIGREEN, year=2024","Duplicate composite key observation (company_id=ADANIGREEN, year=2024)"
+DQ-16,WARNING,balancesheet,200,"['company_id', 'year']","company_id=ADANIGREEN, year=2024","Duplicate composite key observation (company_id=ADANIGREEN, year=2024)"
+DQ-16,WARNING,balancesheet,212,"['company_id', 'year']","company_id=ADANIPORTS, year=2024","Duplicate composite key observation (company_id=ADANIPORTS, year=2024)"
+DQ-16,WARNING,balancesheet,213,"['company_id', 'year']","company_id=ADANIPORTS, year=2024","Duplicate composite key observation (company_id=ADANIPORTS, year=2024)"
+DQ-16,WARNING,balancesheet,225,"['company_id', 'year']","company_id=ADANIPOWER, year=2024","Duplicate composite key observation (company_id=ADANIPOWER, year=2024)"
+DQ-16,WARNING,balancesheet,226,"['company_id', 'year']","company_id=ADANIPOWER, year=2024","Duplicate composite key observation (company_id=ADANIPOWER, year=2024)"
+DQ-16,WARNING,balancesheet,238,"['company_id', 'year']","company_id=AMBUJACEM, year=2024","Duplicate composite key observation (company_id=AMBUJACEM, year=2024)"
+DQ-16,WARNING,balancesheet,239,"['company_id', 'year']","company_id=AMBUJACEM, year=2024","Duplicate composite key observation (company_id=AMBUJACEM, year=2024)"
+DQ-16,WARNING,balancesheet,251,"['company_id', 'year']","company_id=APOLLOHOSP, year=2024","Duplicate composite key observation (company_id=APOLLOHOSP, year=2024)"
+DQ-16,WARNING,balancesheet,252,"['company_id', 'year']","company_id=APOLLOHOSP, year=2024","Duplicate composite key observation (company_id=APOLLOHOSP, year=2024)"
+DQ-16,WARNING,balancesheet,253,"['company_id', 'year']","company_id=ASIANPAINT, year=2013","Duplicate composite key observation (company_id=ASIANPAINT, year=2013)"
+DQ-16,WARNING,balancesheet,254,"['company_id', 'year']","company_id=ASIANPAINT, year=2014","Duplicate composite key observation (company_id=ASIANPAINT, year=2014)"
+DQ-16,WARNING,balancesheet,255,"['company_id', 'year']","company_id=ASIANPAINT, year=2015","Duplicate composite key observation (company_id=ASIANPAINT, year=2015)"
+DQ-16,WARNING,balancesheet,256,"['company_id', 'year']","company_id=ASIANPAINT, year=2016","Duplicate composite key observation (company_id=ASIANPAINT, year=2016)"
+DQ-16,WARNING,balancesheet,257,"['company_id', 'year']","company_id=ASIANPAINT, year=2017","Duplicate composite key observation (company_id=ASIANPAINT, year=2017)"
+DQ-16,WARNING,balancesheet,258,"['company_id', 'year']","company_id=ASIANPAINT, year=2018","Duplicate composite key observation (company_id=ASIANPAINT, year=2018)"
+DQ-16,WARNING,balancesheet,259,"['company_id', 'year']","company_id=ASIANPAINT, year=2019","Duplicate composite key observation (company_id=ASIANPAINT, year=2019)"
+DQ-16,WARNING,balancesheet,260,"['company_id', 'year']","company_id=ASIANPAINT, year=2020","Duplicate composite key observation (company_id=ASIANPAINT, year=2020)"
+DQ-16,WARNING,balancesheet,261,"['company_id', 'year']","company_id=ASIANPAINT, year=2021","Duplicate composite key observation (company_id=ASIANPAINT, year=2021)"
+DQ-16,WARNING,balancesheet,262,"['company_id', 'year']","company_id=ASIANPAINT, year=2022","Duplicate composite key observation (company_id=ASIANPAINT, year=2022)"
+DQ-16,WARNING,balancesheet,263,"['company_id', 'year']","company_id=ASIANPAINT, year=2023","Duplicate composite key observation (company_id=ASIANPAINT, year=2023)"
+DQ-16,WARNING,balancesheet,264,"['company_id', 'year']","company_id=ASIANPAINT, year=2024","Duplicate composite key observation (company_id=ASIANPAINT, year=2024)"
+DQ-16,WARNING,balancesheet,265,"['company_id', 'year']","company_id=ASIANPAINT, year=2024","Duplicate composite key observation (company_id=ASIANPAINT, year=2024)"
+DQ-16,WARNING,balancesheet,266,"['company_id', 'year']","company_id=ASIANPAINT, year=2013","Duplicate composite key observation (company_id=ASIANPAINT, year=2013)"
+DQ-16,WARNING,balancesheet,267,"['company_id', 'year']","company_id=ASIANPAINT, year=2014","Duplicate composite key observation (company_id=ASIANPAINT, year=2014)"
+DQ-16,WARNING,balancesheet,268,"['company_id', 'year']","company_id=ASIANPAINT, year=2015","Duplicate composite key observation (company_id=ASIANPAINT, year=2015)"
+DQ-16,WARNING,balancesheet,269,"['company_id', 'year']","company_id=ASIANPAINT, year=2016","Duplicate composite key observation (company_id=ASIANPAINT, year=2016)"
+DQ-16,WARNING,balancesheet,270,"['company_id', 'year']","company_id=ASIANPAINT, year=2017","Duplicate composite key observation (company_id=ASIANPAINT, year=2017)"
+DQ-16,WARNING,balancesheet,271,"['company_id', 'year']","company_id=ASIANPAINT, year=2018","Duplicate composite key observation (company_id=ASIANPAINT, year=2018)"
+DQ-16,WARNING,balancesheet,272,"['company_id', 'year']","company_id=ASIANPAINT, year=2019","Duplicate composite key observation (company_id=ASIANPAINT, year=2019)"
+DQ-16,WARNING,balancesheet,273,"['company_id', 'year']","company_id=ASIANPAINT, year=2020","Duplicate composite key observation (company_id=ASIANPAINT, year=2020)"
+DQ-16,WARNING,balancesheet,274,"['company_id', 'year']","company_id=ASIANPAINT, year=2021","Duplicate composite key observation (company_id=ASIANPAINT, year=2021)"
+DQ-16,WARNING,balancesheet,275,"['company_id', 'year']","company_id=ASIANPAINT, year=2022","Duplicate composite key observation (company_id=ASIANPAINT, year=2022)"
+DQ-16,WARNING,balancesheet,276,"['company_id', 'year']","company_id=ASIANPAINT, year=2023","Duplicate composite key observation (company_id=ASIANPAINT, year=2023)"
+DQ-16,WARNING,balancesheet,277,"['company_id', 'year']","company_id=ASIANPAINT, year=2024","Duplicate composite key observation (company_id=ASIANPAINT, year=2024)"
+DQ-16,WARNING,balancesheet,278,"['company_id', 'year']","company_id=ASIANPAINT, year=2024","Duplicate composite key observation (company_id=ASIANPAINT, year=2024)"
+DQ-16,WARNING,balancesheet,285,"['company_id', 'year']","company_id=ATGL, year=2024","Duplicate composite key observation (company_id=ATGL, year=2024)"
+DQ-16,WARNING,balancesheet,286,"['company_id', 'year']","company_id=ATGL, year=2024","Duplicate composite key observation (company_id=ATGL, year=2024)"
+DQ-16,WARNING,balancesheet,310,"['company_id', 'year']","company_id=BAJAJ-AUTO, year=2024","Duplicate composite key observation (company_id=BAJAJ-AUTO, year=2024)"
+DQ-16,WARNING,balancesheet,311,"['company_id', 'year']","company_id=BAJAJ-AUTO, year=2024","Duplicate composite key observation (company_id=BAJAJ-AUTO, year=2024)"
+DQ-16,WARNING,balancesheet,323,"['company_id', 'year']","company_id=BAJAJFINSV, year=2024","Duplicate composite key observation (company_id=BAJAJFINSV, year=2024)"
+DQ-16,WARNING,balancesheet,324,"['company_id', 'year']","company_id=BAJAJFINSV, year=2024","Duplicate composite key observation (company_id=BAJAJFINSV, year=2024)"
+DQ-16,WARNING,balancesheet,336,"['company_id', 'year']","company_id=BAJAJHLDNG, year=2024","Duplicate composite key observation (company_id=BAJAJHLDNG, year=2024)"
+DQ-16,WARNING,balancesheet,337,"['company_id', 'year']","company_id=BAJAJHLDNG, year=2024","Duplicate composite key observation (company_id=BAJAJHLDNG, year=2024)"
+DQ-16,WARNING,balancesheet,347,"['company_id', 'year']","company_id=BAJFINANCE, year=2024","Duplicate composite key observation (company_id=BAJFINANCE, year=2024)"
+DQ-16,WARNING,balancesheet,348,"['company_id', 'year']","company_id=BAJFINANCE, year=2024","Duplicate composite key observation (company_id=BAJFINANCE, year=2024)"
+DQ-16,WARNING,balancesheet,372,"['company_id', 'year']","company_id=BEL, year=2024","Duplicate composite key observation (company_id=BEL, year=2024)"
+DQ-16,WARNING,balancesheet,373,"['company_id', 'year']","company_id=BEL, year=2024","Duplicate composite key observation (company_id=BEL, year=2024)"
+DQ-16,WARNING,balancesheet,385,"['company_id', 'year']","company_id=BHARTIARTL, year=2024","Duplicate composite key observation (company_id=BHARTIARTL, year=2024)"
+DQ-16,WARNING,balancesheet,386,"['company_id', 'year']","company_id=BHARTIARTL, year=2024","Duplicate composite key observation (company_id=BHARTIARTL, year=2024)"
+DQ-16,WARNING,balancesheet,398,"['company_id', 'year']","company_id=BHEL, year=2024","Duplicate composite key observation (company_id=BHEL, year=2024)"
+DQ-16,WARNING,balancesheet,399,"['company_id', 'year']","company_id=BHEL, year=2024","Duplicate composite key observation (company_id=BHEL, year=2024)"
+DQ-16,WARNING,balancesheet,411,"['company_id', 'year']","company_id=BOSCHLTD, year=2024","Duplicate composite key observation (company_id=BOSCHLTD, year=2024)"
+DQ-16,WARNING,balancesheet,412,"['company_id', 'year']","company_id=BOSCHLTD, year=2024","Duplicate composite key observation (company_id=BOSCHLTD, year=2024)"
+DQ-16,WARNING,balancesheet,424,"['company_id', 'year']","company_id=BPCL, year=2024","Duplicate composite key observation (company_id=BPCL, year=2024)"
+DQ-16,WARNING,balancesheet,425,"['company_id', 'year']","company_id=BPCL, year=2024","Duplicate composite key observation (company_id=BPCL, year=2024)"
+DQ-16,WARNING,balancesheet,437,"['company_id', 'year']","company_id=BRITANNIA, year=2024","Duplicate composite key observation (company_id=BRITANNIA, year=2024)"
+DQ-16,WARNING,balancesheet,438,"['company_id', 'year']","company_id=BRITANNIA, year=2024","Duplicate composite key observation (company_id=BRITANNIA, year=2024)"
+DQ-16,WARNING,balancesheet,462,"['company_id', 'year']","company_id=CHOLAFIN, year=2024","Duplicate composite key observation (company_id=CHOLAFIN, year=2024)"
+DQ-16,WARNING,balancesheet,463,"['company_id', 'year']","company_id=CHOLAFIN, year=2024","Duplicate composite key observation (company_id=CHOLAFIN, year=2024)"
+DQ-16,WARNING,balancesheet,475,"['company_id', 'year']","company_id=CIPLA, year=2024","Duplicate composite key observation (company_id=CIPLA, year=2024)"
+DQ-16,WARNING,balancesheet,476,"['company_id', 'year']","company_id=CIPLA, year=2024","Duplicate composite key observation (company_id=CIPLA, year=2024)"
+DQ-16,WARNING,balancesheet,488,"['company_id', 'year']","company_id=COALINDIA, year=2024","Duplicate composite key observation (company_id=COALINDIA, year=2024)"
+DQ-16,WARNING,balancesheet,489,"['company_id', 'year']","company_id=COALINDIA, year=2024","Duplicate composite key observation (company_id=COALINDIA, year=2024)"
+DQ-16,WARNING,balancesheet,501,"['company_id', 'year']","company_id=DABUR, year=2024","Duplicate composite key observation (company_id=DABUR, year=2024)"
+DQ-16,WARNING,balancesheet,502,"['company_id', 'year']","company_id=DABUR, year=2024","Duplicate composite key observation (company_id=DABUR, year=2024)"
+DQ-16,WARNING,balancesheet,514,"['company_id', 'year']","company_id=DIVISLAB, year=2024","Duplicate composite key observation (company_id=DIVISLAB, year=2024)"
+DQ-16,WARNING,balancesheet,515,"['company_id', 'year']","company_id=DIVISLAB, year=2024","Duplicate composite key observation (company_id=DIVISLAB, year=2024)"
+DQ-16,WARNING,balancesheet,527,"['company_id', 'year']","company_id=DLF, year=2024","Duplicate composite key observation (company_id=DLF, year=2024)"
+DQ-16,WARNING,balancesheet,528,"['company_id', 'year']","company_id=DLF, year=2024","Duplicate composite key observation (company_id=DLF, year=2024)"
+DQ-16,WARNING,balancesheet,540,"['company_id', 'year']","company_id=DMART, year=2024","Duplicate composite key observation (company_id=DMART, year=2024)"
+DQ-16,WARNING,balancesheet,541,"['company_id', 'year']","company_id=DMART, year=2024","Duplicate composite key observation (company_id=DMART, year=2024)"
+DQ-16,WARNING,balancesheet,553,"['company_id', 'year']","company_id=DRREDDY, year=2024","Duplicate composite key observation (company_id=DRREDDY, year=2024)"
+DQ-16,WARNING,balancesheet,554,"['company_id', 'year']","company_id=DRREDDY, year=2024","Duplicate composite key observation (company_id=DRREDDY, year=2024)"
+DQ-16,WARNING,balancesheet,566,"['company_id', 'year']","company_id=EICHERMOT, year=2024","Duplicate composite key observation (company_id=EICHERMOT, year=2024)"
+DQ-16,WARNING,balancesheet,567,"['company_id', 'year']","company_id=EICHERMOT, year=2024","Duplicate composite key observation (company_id=EICHERMOT, year=2024)"
+DQ-16,WARNING,balancesheet,579,"['company_id', 'year']","company_id=GAIL, year=2024","Duplicate composite key observation (company_id=GAIL, year=2024)"
+DQ-16,WARNING,balancesheet,580,"['company_id', 'year']","company_id=GAIL, year=2024","Duplicate composite key observation (company_id=GAIL, year=2024)"
+DQ-16,WARNING,balancesheet,592,"['company_id', 'year']","company_id=GODREJCP, year=2024","Duplicate composite key observation (company_id=GODREJCP, year=2024)"
+DQ-16,WARNING,balancesheet,593,"['company_id', 'year']","company_id=GODREJCP, year=2024","Duplicate composite key observation (company_id=GODREJCP, year=2024)"
+DQ-16,WARNING,balancesheet,605,"['company_id', 'year']","company_id=GRASIM, year=2024","Duplicate composite key observation (company_id=GRASIM, year=2024)"
+DQ-16,WARNING,balancesheet,606,"['company_id', 'year']","company_id=GRASIM, year=2024","Duplicate composite key observation (company_id=GRASIM, year=2024)"
+DQ-16,WARNING,balancesheet,615,"['company_id', 'year']","company_id=HAL, year=2024","Duplicate composite key observation (company_id=HAL, year=2024)"
+DQ-16,WARNING,balancesheet,616,"['company_id', 'year']","company_id=HAL, year=2024","Duplicate composite key observation (company_id=HAL, year=2024)"
+DQ-16,WARNING,balancesheet,641,"['company_id', 'year']","company_id=HCLTECH, year=2024","Duplicate composite key observation (company_id=HCLTECH, year=2024)"
+DQ-16,WARNING,balancesheet,642,"['company_id', 'year']","company_id=HCLTECH, year=2024","Duplicate composite key observation (company_id=HCLTECH, year=2024)"
+DQ-16,WARNING,balancesheet,654,"['company_id', 'year']","company_id=HAVELLS, year=2024","Duplicate composite key observation (company_id=HAVELLS, year=2024)"
+DQ-16,WARNING,balancesheet,655,"['company_id', 'year']","company_id=HAVELLS, year=2024","Duplicate composite key observation (company_id=HAVELLS, year=2024)"
+DQ-16,WARNING,balancesheet,679,"['company_id', 'year']","company_id=HDFCLIFE, year=2024","Duplicate composite key observation (company_id=HDFCLIFE, year=2024)"
+DQ-16,WARNING,balancesheet,680,"['company_id', 'year']","company_id=HDFCLIFE, year=2024","Duplicate composite key observation (company_id=HDFCLIFE, year=2024)"
+DQ-16,WARNING,balancesheet,691,"['company_id', 'year']","company_id=HEROMOTOCO, year=2024","Duplicate composite key observation (company_id=HEROMOTOCO, year=2024)"
+DQ-16,WARNING,balancesheet,692,"['company_id', 'year']","company_id=HEROMOTOCO, year=2024","Duplicate composite key observation (company_id=HEROMOTOCO, year=2024)"
+DQ-16,WARNING,balancesheet,704,"['company_id', 'year']","company_id=HINDALCO, year=2024","Duplicate composite key observation (company_id=HINDALCO, year=2024)"
+DQ-16,WARNING,balancesheet,705,"['company_id', 'year']","company_id=HINDALCO, year=2024","Duplicate composite key observation (company_id=HINDALCO, year=2024)"
+DQ-16,WARNING,balancesheet,717,"['company_id', 'year']","company_id=HINDUNILVR, year=2024","Duplicate composite key observation (company_id=HINDUNILVR, year=2024)"
+DQ-16,WARNING,balancesheet,718,"['company_id', 'year']","company_id=HINDUNILVR, year=2024","Duplicate composite key observation (company_id=HINDUNILVR, year=2024)"
+DQ-16,WARNING,balancesheet,742,"['company_id', 'year']","company_id=ICICIGI, year=2024","Duplicate composite key observation (company_id=ICICIGI, year=2024)"
+DQ-16,WARNING,balancesheet,743,"['company_id', 'year']","company_id=ICICIGI, year=2024","Duplicate composite key observation (company_id=ICICIGI, year=2024)"
+DQ-16,WARNING,balancesheet,755,"['company_id', 'year']","company_id=ICICIPRULI, year=2024","Duplicate composite key observation (company_id=ICICIPRULI, year=2024)"
+DQ-16,WARNING,balancesheet,756,"['company_id', 'year']","company_id=ICICIPRULI, year=2024","Duplicate composite key observation (company_id=ICICIPRULI, year=2024)"
+DQ-16,WARNING,balancesheet,768,"['company_id', 'year']","company_id=INDIGO, year=2024","Duplicate composite key observation (company_id=INDIGO, year=2024)"
+DQ-16,WARNING,balancesheet,769,"['company_id', 'year']","company_id=INDIGO, year=2024","Duplicate composite key observation (company_id=INDIGO, year=2024)"
+DQ-16,WARNING,balancesheet,793,"['company_id', 'year']","company_id=INFY, year=2024","Duplicate composite key observation (company_id=INFY, year=2024)"
+DQ-16,WARNING,balancesheet,794,"['company_id', 'year']","company_id=INFY, year=2024","Duplicate composite key observation (company_id=INFY, year=2024)"
+DQ-16,WARNING,balancesheet,806,"['company_id', 'year']","company_id=IOC, year=2024","Duplicate composite key observation (company_id=IOC, year=2024)"
+DQ-16,WARNING,balancesheet,807,"['company_id', 'year']","company_id=IOC, year=2024","Duplicate composite key observation (company_id=IOC, year=2024)"
+DQ-16,WARNING,balancesheet,817,"['company_id', 'year']","company_id=IRCTC, year=2024","Duplicate composite key observation (company_id=IRCTC, year=2024)"
+DQ-16,WARNING,balancesheet,818,"['company_id', 'year']","company_id=IRCTC, year=2024","Duplicate composite key observation (company_id=IRCTC, year=2024)"
+DQ-16,WARNING,balancesheet,830,"['company_id', 'year']","company_id=IRFC, year=2024","Duplicate composite key observation (company_id=IRFC, year=2024)"
+DQ-16,WARNING,balancesheet,831,"['company_id', 'year']","company_id=IRFC, year=2024","Duplicate composite key observation (company_id=IRFC, year=2024)"
+DQ-16,WARNING,balancesheet,843,"['company_id', 'year']","company_id=ITC, year=2024","Duplicate composite key observation (company_id=ITC, year=2024)"
+DQ-16,WARNING,balancesheet,844,"['company_id', 'year']","company_id=ITC, year=2024","Duplicate composite key observation (company_id=ITC, year=2024)"
+DQ-16,WARNING,balancesheet,856,"['company_id', 'year']","company_id=ONGC, year=2024","Duplicate composite key observation (company_id=ONGC, year=2024)"
+DQ-16,WARNING,balancesheet,857,"['company_id', 'year']","company_id=ONGC, year=2024","Duplicate composite key observation (company_id=ONGC, year=2024)"
+DQ-16,WARNING,balancesheet,869,"['company_id', 'year']","company_id=NTPC, year=2024","Duplicate composite key observation (company_id=NTPC, year=2024)"
+DQ-16,WARNING,balancesheet,870,"['company_id', 'year']","company_id=NTPC, year=2024","Duplicate composite key observation (company_id=NTPC, year=2024)"
+DQ-16,WARNING,balancesheet,882,"['company_id', 'year']","company_id=NHPC, year=2024","Duplicate composite key observation (company_id=NHPC, year=2024)"
+DQ-16,WARNING,balancesheet,883,"['company_id', 'year']","company_id=NHPC, year=2024","Duplicate composite key observation (company_id=NHPC, year=2024)"
+DQ-16,WARNING,balancesheet,895,"['company_id', 'year']","company_id=NESTLEIND, year=2024","Duplicate composite key observation (company_id=NESTLEIND, year=2024)"
+DQ-16,WARNING,balancesheet,896,"['company_id', 'year']","company_id=NESTLEIND, year=2024","Duplicate composite key observation (company_id=NESTLEIND, year=2024)"
+DQ-16,WARNING,balancesheet,908,"['company_id', 'year']","company_id=NAUKRI, year=2024","Duplicate composite key observation (company_id=NAUKRI, year=2024)"
+DQ-16,WARNING,balancesheet,909,"['company_id', 'year']","company_id=NAUKRI, year=2024","Duplicate composite key observation (company_id=NAUKRI, year=2024)"
+DQ-16,WARNING,balancesheet,921,"['company_id', 'year']","company_id=MOTHERSON, year=2024","Duplicate composite key observation (company_id=MOTHERSON, year=2024)"
+DQ-16,WARNING,balancesheet,922,"['company_id', 'year']","company_id=MOTHERSON, year=2024","Duplicate composite key observation (company_id=MOTHERSON, year=2024)"
+DQ-16,WARNING,balancesheet,934,"['company_id', 'year']","company_id=MARUTI, year=2024","Duplicate composite key observation (company_id=MARUTI, year=2024)"
+DQ-16,WARNING,balancesheet,935,"['company_id', 'year']","company_id=MARUTI, year=2024","Duplicate composite key observation (company_id=MARUTI, year=2024)"
+DQ-16,WARNING,balancesheet,947,"['company_id', 'year']","company_id=M&M, year=2024","Duplicate composite key observation (company_id=M&M, year=2024)"
+DQ-16,WARNING,balancesheet,948,"['company_id', 'year']","company_id=M&M, year=2024","Duplicate composite key observation (company_id=M&M, year=2024)"
+DQ-16,WARNING,balancesheet,960,"['company_id', 'year']","company_id=LTIM, year=2024","Duplicate composite key observation (company_id=LTIM, year=2024)"
+DQ-16,WARNING,balancesheet,961,"['company_id', 'year']","company_id=LTIM, year=2024","Duplicate composite key observation (company_id=LTIM, year=2024)"
+DQ-16,WARNING,balancesheet,973,"['company_id', 'year']","company_id=LT, year=2024","Duplicate composite key observation (company_id=LT, year=2024)"
+DQ-16,WARNING,balancesheet,974,"['company_id', 'year']","company_id=LT, year=2024","Duplicate composite key observation (company_id=LT, year=2024)"
+DQ-16,WARNING,balancesheet,986,"['company_id', 'year']","company_id=LODHA, year=2024","Duplicate composite key observation (company_id=LODHA, year=2024)"
+DQ-16,WARNING,balancesheet,987,"['company_id', 'year']","company_id=LODHA, year=2024","Duplicate composite key observation (company_id=LODHA, year=2024)"
+DQ-16,WARNING,balancesheet,993,"['company_id', 'year']","company_id=LICI, year=2024","Duplicate composite key observation (company_id=LICI, year=2024)"
+DQ-16,WARNING,balancesheet,994,"['company_id', 'year']","company_id=LICI, year=2024","Duplicate composite key observation (company_id=LICI, year=2024)"
+DQ-16,WARNING,balancesheet,1018,"['company_id', 'year']","company_id=JSWSTEEL, year=2024","Duplicate composite key observation (company_id=JSWSTEEL, year=2024)"
+DQ-16,WARNING,balancesheet,1019,"['company_id', 'year']","company_id=JSWSTEEL, year=2024","Duplicate composite key observation (company_id=JSWSTEEL, year=2024)"
+DQ-16,WARNING,balancesheet,1031,"['company_id', 'year']","company_id=JSWENERGY, year=2024","Duplicate composite key observation (company_id=JSWENERGY, year=2024)"
+DQ-16,WARNING,balancesheet,1032,"['company_id', 'year']","company_id=JSWENERGY, year=2024","Duplicate composite key observation (company_id=JSWENERGY, year=2024)"
+DQ-16,WARNING,balancesheet,1034,"['company_id', 'year']","company_id=JIOFIN, year=2024","Duplicate composite key observation (company_id=JIOFIN, year=2024)"
+DQ-16,WARNING,balancesheet,1035,"['company_id', 'year']","company_id=JIOFIN, year=2024","Duplicate composite key observation (company_id=JIOFIN, year=2024)"
+DQ-16,WARNING,balancesheet,1047,"['company_id', 'year']","company_id=JINDALSTEL, year=2024","Duplicate composite key observation (company_id=JINDALSTEL, year=2024)"
+DQ-16,WARNING,balancesheet,1048,"['company_id', 'year']","company_id=JINDALSTEL, year=2024","Duplicate composite key observation (company_id=JINDALSTEL, year=2024)"
+DQ-16,WARNING,balancesheet,1060,"['company_id', 'year']","company_id=PFC, year=2024","Duplicate composite key observation (company_id=PFC, year=2024)"
+DQ-16,WARNING,balancesheet,1061,"['company_id', 'year']","company_id=PFC, year=2024","Duplicate composite key observation (company_id=PFC, year=2024)"
+DQ-16,WARNING,balancesheet,1073,"['company_id', 'year']","company_id=PIDILITIND, year=2024","Duplicate composite key observation (company_id=PIDILITIND, year=2024)"
+DQ-16,WARNING,balancesheet,1074,"['company_id', 'year']","company_id=PIDILITIND, year=2024","Duplicate composite key observation (company_id=PIDILITIND, year=2024)"
+DQ-16,WARNING,balancesheet,1075,"['company_id', 'year']","company_id=PNB, year=2013","Duplicate composite key observation (company_id=PNB, year=2013)"
+DQ-16,WARNING,balancesheet,1076,"['company_id', 'year']","company_id=PNB, year=2014","Duplicate composite key observation (company_id=PNB, year=2014)"
+DQ-16,WARNING,balancesheet,1077,"['company_id', 'year']","company_id=PNB, year=2015","Duplicate composite key observation (company_id=PNB, year=2015)"
+DQ-16,WARNING,balancesheet,1078,"['company_id', 'year']","company_id=PNB, year=2016","Duplicate composite key observation (company_id=PNB, year=2016)"
+DQ-16,WARNING,balancesheet,1079,"['company_id', 'year']","company_id=PNB, year=2017","Duplicate composite key observation (company_id=PNB, year=2017)"
+DQ-16,WARNING,balancesheet,1080,"['company_id', 'year']","company_id=PNB, year=2018","Duplicate composite key observation (company_id=PNB, year=2018)"
+DQ-16,WARNING,balancesheet,1081,"['company_id', 'year']","company_id=PNB, year=2019","Duplicate composite key observation (company_id=PNB, year=2019)"
+DQ-16,WARNING,balancesheet,1082,"['company_id', 'year']","company_id=PNB, year=2020","Duplicate composite key observation (company_id=PNB, year=2020)"
+DQ-16,WARNING,balancesheet,1083,"['company_id', 'year']","company_id=PNB, year=2021","Duplicate composite key observation (company_id=PNB, year=2021)"
+DQ-16,WARNING,balancesheet,1084,"['company_id', 'year']","company_id=PNB, year=2022","Duplicate composite key observation (company_id=PNB, year=2022)"
+DQ-16,WARNING,balancesheet,1085,"['company_id', 'year']","company_id=PNB, year=2023","Duplicate composite key observation (company_id=PNB, year=2023)"
+DQ-16,WARNING,balancesheet,1086,"['company_id', 'year']","company_id=PNB, year=2024","Duplicate composite key observation (company_id=PNB, year=2024)"
+DQ-16,WARNING,balancesheet,1087,"['company_id', 'year']","company_id=PNB, year=2013","Duplicate composite key observation (company_id=PNB, year=2013)"
+DQ-16,WARNING,balancesheet,1088,"['company_id', 'year']","company_id=PNB, year=2014","Duplicate composite key observation (company_id=PNB, year=2014)"
+DQ-16,WARNING,balancesheet,1089,"['company_id', 'year']","company_id=PNB, year=2015","Duplicate composite key observation (company_id=PNB, year=2015)"
+DQ-16,WARNING,balancesheet,1090,"['company_id', 'year']","company_id=PNB, year=2016","Duplicate composite key observation (company_id=PNB, year=2016)"
+DQ-16,WARNING,balancesheet,1091,"['company_id', 'year']","company_id=PNB, year=2017","Duplicate composite key observation (company_id=PNB, year=2017)"
+DQ-16,WARNING,balancesheet,1092,"['company_id', 'year']","company_id=PNB, year=2018","Duplicate composite key observation (company_id=PNB, year=2018)"
+DQ-16,WARNING,balancesheet,1093,"['company_id', 'year']","company_id=PNB, year=2019","Duplicate composite key observation (company_id=PNB, year=2019)"
+DQ-16,WARNING,balancesheet,1094,"['company_id', 'year']","company_id=PNB, year=2020","Duplicate composite key observation (company_id=PNB, year=2020)"
+DQ-16,WARNING,balancesheet,1095,"['company_id', 'year']","company_id=PNB, year=2021","Duplicate composite key observation (company_id=PNB, year=2021)"
+DQ-16,WARNING,balancesheet,1096,"['company_id', 'year']","company_id=PNB, year=2022","Duplicate composite key observation (company_id=PNB, year=2022)"
+DQ-16,WARNING,balancesheet,1097,"['company_id', 'year']","company_id=PNB, year=2023","Duplicate composite key observation (company_id=PNB, year=2023)"
+DQ-16,WARNING,balancesheet,1098,"['company_id', 'year']","company_id=PNB, year=2024","Duplicate composite key observation (company_id=PNB, year=2024)"
+DQ-16,WARNING,balancesheet,1099,"['company_id', 'year']","company_id=PNB, year=2013","Duplicate composite key observation (company_id=PNB, year=2013)"
+DQ-16,WARNING,balancesheet,1100,"['company_id', 'year']","company_id=PNB, year=2014","Duplicate composite key observation (company_id=PNB, year=2014)"
+DQ-16,WARNING,balancesheet,1101,"['company_id', 'year']","company_id=PNB, year=2015","Duplicate composite key observation (company_id=PNB, year=2015)"
+DQ-16,WARNING,balancesheet,1102,"['company_id', 'year']","company_id=PNB, year=2016","Duplicate composite key observation (company_id=PNB, year=2016)"
+DQ-16,WARNING,balancesheet,1103,"['company_id', 'year']","company_id=PNB, year=2017","Duplicate composite key observation (company_id=PNB, year=2017)"
+DQ-16,WARNING,balancesheet,1104,"['company_id', 'year']","company_id=PNB, year=2018","Duplicate composite key observation (company_id=PNB, year=2018)"
+DQ-16,WARNING,balancesheet,1105,"['company_id', 'year']","company_id=PNB, year=2019","Duplicate composite key observation (company_id=PNB, year=2019)"
+DQ-16,WARNING,balancesheet,1106,"['company_id', 'year']","company_id=PNB, year=2020","Duplicate composite key observation (company_id=PNB, year=2020)"
+DQ-16,WARNING,balancesheet,1107,"['company_id', 'year']","company_id=PNB, year=2021","Duplicate composite key observation (company_id=PNB, year=2021)"
+DQ-16,WARNING,balancesheet,1108,"['company_id', 'year']","company_id=PNB, year=2022","Duplicate composite key observation (company_id=PNB, year=2022)"
+DQ-16,WARNING,balancesheet,1109,"['company_id', 'year']","company_id=PNB, year=2023","Duplicate composite key observation (company_id=PNB, year=2023)"
+DQ-16,WARNING,balancesheet,1110,"['company_id', 'year']","company_id=PNB, year=2024","Duplicate composite key observation (company_id=PNB, year=2024)"
+DQ-16,WARNING,balancesheet,1111,"['company_id', 'year']","company_id=PNB, year=2013","Duplicate composite key observation (company_id=PNB, year=2013)"
+DQ-16,WARNING,balancesheet,1112,"['company_id', 'year']","company_id=PNB, year=2014","Duplicate composite key observation (company_id=PNB, year=2014)"
+DQ-16,WARNING,balancesheet,1113,"['company_id', 'year']","company_id=PNB, year=2015","Duplicate composite key observation (company_id=PNB, year=2015)"
+DQ-16,WARNING,balancesheet,1114,"['company_id', 'year']","company_id=PNB, year=2016","Duplicate composite key observation (company_id=PNB, year=2016)"
+DQ-16,WARNING,balancesheet,1115,"['company_id', 'year']","company_id=PNB, year=2017","Duplicate composite key observation (company_id=PNB, year=2017)"
+DQ-16,WARNING,balancesheet,1116,"['company_id', 'year']","company_id=PNB, year=2018","Duplicate composite key observation (company_id=PNB, year=2018)"
+DQ-16,WARNING,balancesheet,1117,"['company_id', 'year']","company_id=PNB, year=2019","Duplicate composite key observation (company_id=PNB, year=2019)"
+DQ-16,WARNING,balancesheet,1118,"['company_id', 'year']","company_id=PNB, year=2020","Duplicate composite key observation (company_id=PNB, year=2020)"
+DQ-16,WARNING,balancesheet,1119,"['company_id', 'year']","company_id=PNB, year=2021","Duplicate composite key observation (company_id=PNB, year=2021)"
+DQ-16,WARNING,balancesheet,1120,"['company_id', 'year']","company_id=PNB, year=2022","Duplicate composite key observation (company_id=PNB, year=2022)"
+DQ-16,WARNING,balancesheet,1121,"['company_id', 'year']","company_id=PNB, year=2023","Duplicate composite key observation (company_id=PNB, year=2023)"
+DQ-16,WARNING,balancesheet,1122,"['company_id', 'year']","company_id=PNB, year=2024","Duplicate composite key observation (company_id=PNB, year=2024)"
+DQ-16,WARNING,balancesheet,1123,"['company_id', 'year']","company_id=PNB, year=2013","Duplicate composite key observation (company_id=PNB, year=2013)"
+DQ-16,WARNING,balancesheet,1124,"['company_id', 'year']","company_id=PNB, year=2014","Duplicate composite key observation (company_id=PNB, year=2014)"
+DQ-16,WARNING,balancesheet,1125,"['company_id', 'year']","company_id=PNB, year=2015","Duplicate composite key observation (company_id=PNB, year=2015)"
+DQ-16,WARNING,balancesheet,1126,"['company_id', 'year']","company_id=PNB, year=2016","Duplicate composite key observation (company_id=PNB, year=2016)"
+DQ-16,WARNING,balancesheet,1127,"['company_id', 'year']","company_id=PNB, year=2017","Duplicate composite key observation (company_id=PNB, year=2017)"
+DQ-16,WARNING,balancesheet,1128,"['company_id', 'year']","company_id=PNB, year=2018","Duplicate composite key observation (company_id=PNB, year=2018)"
+DQ-16,WARNING,balancesheet,1129,"['company_id', 'year']","company_id=PNB, year=2019","Duplicate composite key observation (company_id=PNB, year=2019)"
+DQ-16,WARNING,balancesheet,1130,"['company_id', 'year']","company_id=PNB, year=2020","Duplicate composite key observation (company_id=PNB, year=2020)"
+DQ-16,WARNING,balancesheet,1131,"['company_id', 'year']","company_id=PNB, year=2021","Duplicate composite key observation (company_id=PNB, year=2021)"
+DQ-16,WARNING,balancesheet,1132,"['company_id', 'year']","company_id=PNB, year=2022","Duplicate composite key observation (company_id=PNB, year=2022)"
+DQ-16,WARNING,balancesheet,1133,"['company_id', 'year']","company_id=PNB, year=2023","Duplicate composite key observation (company_id=PNB, year=2023)"
+DQ-16,WARNING,balancesheet,1134,"['company_id', 'year']","company_id=PNB, year=2024","Duplicate composite key observation (company_id=PNB, year=2024)"
+DQ-16,WARNING,balancesheet,1135,"['company_id', 'year']","company_id=POWERGRID, year=2013","Duplicate composite key observation (company_id=POWERGRID, year=2013)"
+DQ-16,WARNING,balancesheet,1136,"['company_id', 'year']","company_id=POWERGRID, year=2014","Duplicate composite key observation (company_id=POWERGRID, year=2014)"
+DQ-16,WARNING,balancesheet,1137,"['company_id', 'year']","company_id=POWERGRID, year=2015","Duplicate composite key observation (company_id=POWERGRID, year=2015)"
+DQ-16,WARNING,balancesheet,1138,"['company_id', 'year']","company_id=POWERGRID, year=2016","Duplicate composite key observation (company_id=POWERGRID, year=2016)"
+DQ-16,WARNING,balancesheet,1139,"['company_id', 'year']","company_id=POWERGRID, year=2017","Duplicate composite key observation (company_id=POWERGRID, year=2017)"
+DQ-16,WARNING,balancesheet,1140,"['company_id', 'year']","company_id=POWERGRID, year=2018","Duplicate composite key observation (company_id=POWERGRID, year=2018)"
+DQ-16,WARNING,balancesheet,1141,"['company_id', 'year']","company_id=POWERGRID, year=2019","Duplicate composite key observation (company_id=POWERGRID, year=2019)"
+DQ-16,WARNING,balancesheet,1142,"['company_id', 'year']","company_id=POWERGRID, year=2020","Duplicate composite key observation (company_id=POWERGRID, year=2020)"
+DQ-16,WARNING,balancesheet,1143,"['company_id', 'year']","company_id=POWERGRID, year=2021","Duplicate composite key observation (company_id=POWERGRID, year=2021)"
+DQ-16,WARNING,balancesheet,1144,"['company_id', 'year']","company_id=POWERGRID, year=2022","Duplicate composite key observation (company_id=POWERGRID, year=2022)"
+DQ-16,WARNING,balancesheet,1145,"['company_id', 'year']","company_id=POWERGRID, year=2023","Duplicate composite key observation (company_id=POWERGRID, year=2023)"
+DQ-16,WARNING,balancesheet,1146,"['company_id', 'year']","company_id=POWERGRID, year=2024","Duplicate composite key observation (company_id=POWERGRID, year=2024)"
+DQ-16,WARNING,balancesheet,1147,"['company_id', 'year']","company_id=POWERGRID, year=2024","Duplicate composite key observation (company_id=POWERGRID, year=2024)"
+DQ-16,WARNING,balancesheet,1148,"['company_id', 'year']","company_id=POWERGRID, year=2013","Duplicate composite key observation (company_id=POWERGRID, year=2013)"
+DQ-16,WARNING,balancesheet,1149,"['company_id', 'year']","company_id=POWERGRID, year=2014","Duplicate composite key observation (company_id=POWERGRID, year=2014)"
+DQ-16,WARNING,balancesheet,1150,"['company_id', 'year']","company_id=POWERGRID, year=2015","Duplicate composite key observation (company_id=POWERGRID, year=2015)"
+DQ-16,WARNING,balancesheet,1151,"['company_id', 'year']","company_id=POWERGRID, year=2016","Duplicate composite key observation (company_id=POWERGRID, year=2016)"
+DQ-16,WARNING,balancesheet,1152,"['company_id', 'year']","company_id=POWERGRID, year=2017","Duplicate composite key observation (company_id=POWERGRID, year=2017)"
+DQ-16,WARNING,balancesheet,1153,"['company_id', 'year']","company_id=POWERGRID, year=2018","Duplicate composite key observation (company_id=POWERGRID, year=2018)"
+DQ-16,WARNING,balancesheet,1154,"['company_id', 'year']","company_id=POWERGRID, year=2019","Duplicate composite key observation (company_id=POWERGRID, year=2019)"
+DQ-16,WARNING,balancesheet,1155,"['company_id', 'year']","company_id=POWERGRID, year=2020","Duplicate composite key observation (company_id=POWERGRID, year=2020)"
+DQ-16,WARNING,balancesheet,1156,"['company_id', 'year']","company_id=POWERGRID, year=2021","Duplicate composite key observation (company_id=POWERGRID, year=2021)"
+DQ-16,WARNING,balancesheet,1157,"['company_id', 'year']","company_id=POWERGRID, year=2022","Duplicate composite key observation (company_id=POWERGRID, year=2022)"
+DQ-16,WARNING,balancesheet,1158,"['company_id', 'year']","company_id=POWERGRID, year=2023","Duplicate composite key observation (company_id=POWERGRID, year=2023)"
+DQ-16,WARNING,balancesheet,1159,"['company_id', 'year']","company_id=POWERGRID, year=2024","Duplicate composite key observation (company_id=POWERGRID, year=2024)"
+DQ-16,WARNING,balancesheet,1160,"['company_id', 'year']","company_id=POWERGRID, year=2024","Duplicate composite key observation (company_id=POWERGRID, year=2024)"
+DQ-16,WARNING,balancesheet,1172,"['company_id', 'year']","company_id=RECLTD, year=2024","Duplicate composite key observation (company_id=RECLTD, year=2024)"
+DQ-16,WARNING,balancesheet,1173,"['company_id', 'year']","company_id=RECLTD, year=2024","Duplicate composite key observation (company_id=RECLTD, year=2024)"
+DQ-16,WARNING,balancesheet,1185,"['company_id', 'year']","company_id=RELIANCE, year=2024","Duplicate composite key observation (company_id=RELIANCE, year=2024)"
+DQ-16,WARNING,balancesheet,1186,"['company_id', 'year']","company_id=RELIANCE, year=2024","Duplicate composite key observation (company_id=RELIANCE, year=2024)"
+DQ-16,WARNING,balancesheet,1198,"['company_id', 'year']","company_id=SBILIFE, year=2024","Duplicate composite key observation (company_id=SBILIFE, year=2024)"
+DQ-16,WARNING,balancesheet,1199,"['company_id', 'year']","company_id=SBILIFE, year=2024","Duplicate composite key observation (company_id=SBILIFE, year=2024)"
+DQ-16,WARNING,balancesheet,1211,"['company_id', 'year']","company_id=ZYDUSLIFE, year=2024","Duplicate composite key observation (company_id=ZYDUSLIFE, year=2024)"
+DQ-16,WARNING,balancesheet,1212,"['company_id', 'year']","company_id=ZYDUSLIFE, year=2024","Duplicate composite key observation (company_id=ZYDUSLIFE, year=2024)"
+DQ-16,WARNING,balancesheet,1224,"['company_id', 'year']","company_id=SHREECEM, year=2024","Duplicate composite key observation (company_id=SHREECEM, year=2024)"
+DQ-16,WARNING,balancesheet,1225,"['company_id', 'year']","company_id=SHREECEM, year=2024","Duplicate composite key observation (company_id=SHREECEM, year=2024)"
+DQ-16,WARNING,balancesheet,1232,"['company_id', 'year']","company_id=ZOMATO, year=2024","Duplicate composite key observation (company_id=ZOMATO, year=2024)"
+DQ-16,WARNING,balancesheet,1233,"['company_id', 'year']","company_id=ZOMATO, year=2024","Duplicate composite key observation (company_id=ZOMATO, year=2024)"
+DQ-16,WARNING,balancesheet,1245,"['company_id', 'year']","company_id=WIPRO, year=2024","Duplicate composite key observation (company_id=WIPRO, year=2024)"
+DQ-16,WARNING,balancesheet,1246,"['company_id', 'year']","company_id=WIPRO, year=2024","Duplicate composite key observation (company_id=WIPRO, year=2024)"
+DQ-16,WARNING,balancesheet,1258,"['company_id', 'year']","company_id=VEDL, year=2024","Duplicate composite key observation (company_id=VEDL, year=2024)"
+DQ-16,WARNING,balancesheet,1259,"['company_id', 'year']","company_id=VEDL, year=2024","Duplicate composite key observation (company_id=VEDL, year=2024)"
+DQ-16,WARNING,balancesheet,1271,"['company_id', 'year']","company_id=SHRIRAMFIN, year=2024","Duplicate composite key observation (company_id=SHRIRAMFIN, year=2024)"
+DQ-16,WARNING,balancesheet,1272,"['company_id', 'year']","company_id=SHRIRAMFIN, year=2024","Duplicate composite key observation (company_id=SHRIRAMFIN, year=2024)"
+DQ-16,WARNING,balancesheet,1296,"['company_id', 'year']","company_id=UNITDSPR, year=2024","Duplicate composite key observation (company_id=UNITDSPR, year=2024)"
+DQ-16,WARNING,balancesheet,1297,"['company_id', 'year']","company_id=UNITDSPR, year=2024","Duplicate composite key observation (company_id=UNITDSPR, year=2024)"
+DQ-16,WARNING,balancesheet,1321,"['company_id', 'year']","company_id=SUNPHARMA, year=2024","Duplicate composite key observation (company_id=SUNPHARMA, year=2024)"
+DQ-16,WARNING,balancesheet,1322,"['company_id', 'year']","company_id=SUNPHARMA, year=2024","Duplicate composite key observation (company_id=SUNPHARMA, year=2024)"
+DQ-16,WARNING,balancesheet,1334,"['company_id', 'year']","company_id=ULTRACEMCO, year=2024","Duplicate composite key observation (company_id=ULTRACEMCO, year=2024)"
+DQ-16,WARNING,balancesheet,1335,"['company_id', 'year']","company_id=ULTRACEMCO, year=2024","Duplicate composite key observation (company_id=ULTRACEMCO, year=2024)"
+DQ-16,WARNING,balancesheet,1347,"['company_id', 'year']","company_id=TVSMOTOR, year=2024","Duplicate composite key observation (company_id=TVSMOTOR, year=2024)"
+DQ-16,WARNING,balancesheet,1348,"['company_id', 'year']","company_id=TVSMOTOR, year=2024","Duplicate composite key observation (company_id=TVSMOTOR, year=2024)"
+DQ-16,WARNING,balancesheet,1360,"['company_id', 'year']","company_id=TRENT, year=2024","Duplicate composite key observation (company_id=TRENT, year=2024)"
+DQ-16,WARNING,balancesheet,1361,"['company_id', 'year']","company_id=TRENT, year=2024","Duplicate composite key observation (company_id=TRENT, year=2024)"
+DQ-16,WARNING,balancesheet,1373,"['company_id', 'year']","company_id=TORNTPHARM, year=2024","Duplicate composite key observation (company_id=TORNTPHARM, year=2024)"
+DQ-16,WARNING,balancesheet,1374,"['company_id', 'year']","company_id=TORNTPHARM, year=2024","Duplicate composite key observation (company_id=TORNTPHARM, year=2024)"
+DQ-16,WARNING,balancesheet,1386,"['company_id', 'year']","company_id=TITAN, year=2024","Duplicate composite key observation (company_id=TITAN, year=2024)"
+DQ-16,WARNING,balancesheet,1387,"['company_id', 'year']","company_id=TITAN, year=2024","Duplicate composite key observation (company_id=TITAN, year=2024)"
+DQ-16,WARNING,balancesheet,1388,"['company_id', 'year']","company_id=TECHM, year=2013","Duplicate composite key observation (company_id=TECHM, year=2013)"
+DQ-16,WARNING,balancesheet,1389,"['company_id', 'year']","company_id=TECHM, year=2014","Duplicate composite key observation (company_id=TECHM, year=2014)"
+DQ-16,WARNING,balancesheet,1390,"['company_id', 'year']","company_id=TECHM, year=2015","Duplicate composite key observation (company_id=TECHM, year=2015)"
+DQ-16,WARNING,balancesheet,1391,"['company_id', 'year']","company_id=TECHM, year=2016","Duplicate composite key observation (company_id=TECHM, year=2016)"
+DQ-16,WARNING,balancesheet,1392,"['company_id', 'year']","company_id=TECHM, year=2017","Duplicate composite key observation (company_id=TECHM, year=2017)"
+DQ-16,WARNING,balancesheet,1393,"['company_id', 'year']","company_id=TECHM, year=2018","Duplicate composite key observation (company_id=TECHM, year=2018)"
+DQ-16,WARNING,balancesheet,1394,"['company_id', 'year']","company_id=TECHM, year=2019","Duplicate composite key observation (company_id=TECHM, year=2019)"
+DQ-16,WARNING,balancesheet,1395,"['company_id', 'year']","company_id=TECHM, year=2020","Duplicate composite key observation (company_id=TECHM, year=2020)"
+DQ-16,WARNING,balancesheet,1396,"['company_id', 'year']","company_id=TECHM, year=2021","Duplicate composite key observation (company_id=TECHM, year=2021)"
+DQ-16,WARNING,balancesheet,1397,"['company_id', 'year']","company_id=TECHM, year=2022","Duplicate composite key observation (company_id=TECHM, year=2022)"
+DQ-16,WARNING,balancesheet,1398,"['company_id', 'year']","company_id=TECHM, year=2023","Duplicate composite key observation (company_id=TECHM, year=2023)"
+DQ-16,WARNING,balancesheet,1399,"['company_id', 'year']","company_id=TECHM, year=2024","Duplicate composite key observation (company_id=TECHM, year=2024)"
+DQ-16,WARNING,balancesheet,1400,"['company_id', 'year']","company_id=TECHM, year=2024","Duplicate composite key observation (company_id=TECHM, year=2024)"
+DQ-16,WARNING,balancesheet,1412,"['company_id', 'year']","company_id=TATACONSUM, year=2024","Duplicate composite key observation (company_id=TATACONSUM, year=2024)"
+DQ-16,WARNING,balancesheet,1413,"['company_id', 'year']","company_id=TATACONSUM, year=2024","Duplicate composite key observation (company_id=TATACONSUM, year=2024)"
+DQ-16,WARNING,balancesheet,1425,"['company_id', 'year']","company_id=TCS, year=2024","Duplicate composite key observation (company_id=TCS, year=2024)"
+DQ-16,WARNING,balancesheet,1426,"['company_id', 'year']","company_id=TCS, year=2024","Duplicate composite key observation (company_id=TCS, year=2024)"
+DQ-16,WARNING,balancesheet,1438,"['company_id', 'year']","company_id=TATASTEEL, year=2024","Duplicate composite key observation (company_id=TATASTEEL, year=2024)"
+DQ-16,WARNING,balancesheet,1439,"['company_id', 'year']","company_id=TATASTEEL, year=2024","Duplicate composite key observation (company_id=TATASTEEL, year=2024)"
+DQ-16,WARNING,balancesheet,1440,"['company_id', 'year']","company_id=TECHM, year=2013","Duplicate composite key observation (company_id=TECHM, year=2013)"
+DQ-16,WARNING,balancesheet,1441,"['company_id', 'year']","company_id=TECHM, year=2014","Duplicate composite key observation (company_id=TECHM, year=2014)"
+DQ-16,WARNING,balancesheet,1442,"['company_id', 'year']","company_id=TECHM, year=2015","Duplicate composite key observation (company_id=TECHM, year=2015)"
+DQ-16,WARNING,balancesheet,1443,"['company_id', 'year']","company_id=TECHM, year=2016","Duplicate composite key observation (company_id=TECHM, year=2016)"
+DQ-16,WARNING,balancesheet,1444,"['company_id', 'year']","company_id=TECHM, year=2017","Duplicate composite key observation (company_id=TECHM, year=2017)"
+DQ-16,WARNING,balancesheet,1445,"['company_id', 'year']","company_id=TECHM, year=2018","Duplicate composite key observation (company_id=TECHM, year=2018)"
+DQ-16,WARNING,balancesheet,1446,"['company_id', 'year']","company_id=TECHM, year=2019","Duplicate composite key observation (company_id=TECHM, year=2019)"
+DQ-16,WARNING,balancesheet,1447,"['company_id', 'year']","company_id=TECHM, year=2020","Duplicate composite key observation (company_id=TECHM, year=2020)"
+DQ-16,WARNING,balancesheet,1448,"['company_id', 'year']","company_id=TECHM, year=2021","Duplicate composite key observation (company_id=TECHM, year=2021)"
+DQ-16,WARNING,balancesheet,1449,"['company_id', 'year']","company_id=TECHM, year=2022","Duplicate composite key observation (company_id=TECHM, year=2022)"
+DQ-16,WARNING,balancesheet,1450,"['company_id', 'year']","company_id=TECHM, year=2023","Duplicate composite key observation (company_id=TECHM, year=2023)"
+DQ-16,WARNING,balancesheet,1451,"['company_id', 'year']","company_id=TECHM, year=2024","Duplicate composite key observation (company_id=TECHM, year=2024)"
+DQ-16,WARNING,balancesheet,1452,"['company_id', 'year']","company_id=TECHM, year=2024","Duplicate composite key observation (company_id=TECHM, year=2024)"
+DQ-16,WARNING,balancesheet,1464,"['company_id', 'year']","company_id=TATAPOWER, year=2024","Duplicate composite key observation (company_id=TATAPOWER, year=2024)"
+DQ-16,WARNING,balancesheet,1465,"['company_id', 'year']","company_id=TATAPOWER, year=2024","Duplicate composite key observation (company_id=TATAPOWER, year=2024)"
+DQ-16,WARNING,balancesheet,1477,"['company_id', 'year']","company_id=TATAMOTORS, year=2024","Duplicate composite key observation (company_id=TATAMOTORS, year=2024)"
+DQ-16,WARNING,balancesheet,1478,"['company_id', 'year']","company_id=TATAMOTORS, year=2024","Duplicate composite key observation (company_id=TATAMOTORS, year=2024)"
+DQ-16,WARNING,cashflow,37,"['company_id', 'year']","company_id=TCS, year=2013","Duplicate composite key observation (company_id=TCS, year=2013)"
+DQ-16,WARNING,cashflow,38,"['company_id', 'year']","company_id=TCS, year=2014","Duplicate composite key observation (company_id=TCS, year=2014)"
+DQ-16,WARNING,cashflow,39,"['company_id', 'year']","company_id=TCS, year=2015","Duplicate composite key observation (company_id=TCS, year=2015)"
+DQ-16,WARNING,cashflow,40,"['company_id', 'year']","company_id=TCS, year=2016","Duplicate composite key observation (company_id=TCS, year=2016)"
+DQ-16,WARNING,cashflow,41,"['company_id', 'year']","company_id=TCS, year=2017","Duplicate composite key observation (company_id=TCS, year=2017)"
+DQ-16,WARNING,cashflow,42,"['company_id', 'year']","company_id=TCS, year=2018","Duplicate composite key observation (company_id=TCS, year=2018)"
+DQ-16,WARNING,cashflow,43,"['company_id', 'year']","company_id=TCS, year=2019","Duplicate composite key observation (company_id=TCS, year=2019)"
+DQ-16,WARNING,cashflow,44,"['company_id', 'year']","company_id=TCS, year=2020","Duplicate composite key observation (company_id=TCS, year=2020)"
+DQ-16,WARNING,cashflow,45,"['company_id', 'year']","company_id=TCS, year=2021","Duplicate composite key observation (company_id=TCS, year=2021)"
+DQ-16,WARNING,cashflow,46,"['company_id', 'year']","company_id=TCS, year=2022","Duplicate composite key observation (company_id=TCS, year=2022)"
+DQ-16,WARNING,cashflow,47,"['company_id', 'year']","company_id=TCS, year=2023","Duplicate composite key observation (company_id=TCS, year=2023)"
+DQ-16,WARNING,cashflow,48,"['company_id', 'year']","company_id=TCS, year=2024","Duplicate composite key observation (company_id=TCS, year=2024)"
+DQ-16,WARNING,cashflow,62,"['company_id', 'year']","company_id=ABB, year=2014","Duplicate composite key observation (company_id=ABB, year=2014)"
+DQ-16,WARNING,cashflow,63,"['company_id', 'year']","company_id=ABB, year=2015","Duplicate composite key observation (company_id=ABB, year=2015)"
+DQ-16,WARNING,cashflow,64,"['company_id', 'year']","company_id=ABB, year=2016","Duplicate composite key observation (company_id=ABB, year=2016)"
+DQ-16,WARNING,cashflow,65,"['company_id', 'year']","company_id=ABB, year=2017","Duplicate composite key observation (company_id=ABB, year=2017)"
+DQ-16,WARNING,cashflow,66,"['company_id', 'year']","company_id=ABB, year=2018","Duplicate composite key observation (company_id=ABB, year=2018)"
+DQ-16,WARNING,cashflow,67,"['company_id', 'year']","company_id=ABB, year=2019","Duplicate composite key observation (company_id=ABB, year=2019)"
+DQ-16,WARNING,cashflow,68,"['company_id', 'year']","company_id=ABB, year=2020","Duplicate composite key observation (company_id=ABB, year=2020)"
+DQ-16,WARNING,cashflow,69,"['company_id', 'year']","company_id=ABB, year=2021","Duplicate composite key observation (company_id=ABB, year=2021)"
+DQ-16,WARNING,cashflow,70,"['company_id', 'year']","company_id=ABB, year=2022","Duplicate composite key observation (company_id=ABB, year=2022)"
+DQ-16,WARNING,cashflow,71,"['company_id', 'year']","company_id=ABB, year=2023","Duplicate composite key observation (company_id=ABB, year=2023)"
+DQ-16,WARNING,cashflow,72,"['company_id', 'year']","company_id=ABB, year=2024","Duplicate composite key observation (company_id=ABB, year=2024)"
+DQ-16,WARNING,cashflow,73,"['company_id', 'year']","company_id=ABB, year=2014","Duplicate composite key observation (company_id=ABB, year=2014)"
+DQ-16,WARNING,cashflow,74,"['company_id', 'year']","company_id=ABB, year=2015","Duplicate composite key observation (company_id=ABB, year=2015)"
+DQ-16,WARNING,cashflow,75,"['company_id', 'year']","company_id=ABB, year=2016","Duplicate composite key observation (company_id=ABB, year=2016)"
+DQ-16,WARNING,cashflow,76,"['company_id', 'year']","company_id=ABB, year=2017","Duplicate composite key observation (company_id=ABB, year=2017)"
+DQ-16,WARNING,cashflow,77,"['company_id', 'year']","company_id=ABB, year=2018","Duplicate composite key observation (company_id=ABB, year=2018)"
+DQ-16,WARNING,cashflow,78,"['company_id', 'year']","company_id=ABB, year=2019","Duplicate composite key observation (company_id=ABB, year=2019)"
+DQ-16,WARNING,cashflow,79,"['company_id', 'year']","company_id=ABB, year=2020","Duplicate composite key observation (company_id=ABB, year=2020)"
+DQ-16,WARNING,cashflow,80,"['company_id', 'year']","company_id=ABB, year=2021","Duplicate composite key observation (company_id=ABB, year=2021)"
+DQ-16,WARNING,cashflow,81,"['company_id', 'year']","company_id=ABB, year=2022","Duplicate composite key observation (company_id=ABB, year=2022)"
+DQ-16,WARNING,cashflow,82,"['company_id', 'year']","company_id=ABB, year=2023","Duplicate composite key observation (company_id=ABB, year=2023)"
+DQ-16,WARNING,cashflow,83,"['company_id', 'year']","company_id=ABB, year=2024","Duplicate composite key observation (company_id=ABB, year=2024)"
+DQ-16,WARNING,cashflow,208,"['company_id', 'year']","company_id=BAJAJ-AUTO, year=2013","Duplicate composite key observation (company_id=BAJAJ-AUTO, year=2013)"
+DQ-16,WARNING,cashflow,209,"['company_id', 'year']","company_id=BAJAJ-AUTO, year=2014","Duplicate composite key observation (company_id=BAJAJ-AUTO, year=2014)"
+DQ-16,WARNING,cashflow,210,"['company_id', 'year']","company_id=BAJAJ-AUTO, year=2015","Duplicate composite key observation (company_id=BAJAJ-AUTO, year=2015)"
+DQ-16,WARNING,cashflow,211,"['company_id', 'year']","company_id=BAJAJ-AUTO, year=2016","Duplicate composite key observation (company_id=BAJAJ-AUTO, year=2016)"
+DQ-16,WARNING,cashflow,212,"['company_id', 'year']","company_id=BAJAJ-AUTO, year=2017","Duplicate composite key observation (company_id=BAJAJ-AUTO, year=2017)"
+DQ-16,WARNING,cashflow,213,"['company_id', 'year']","company_id=BAJAJ-AUTO, year=2018","Duplicate composite key observation (company_id=BAJAJ-AUTO, year=2018)"
+DQ-16,WARNING,cashflow,214,"['company_id', 'year']","company_id=BAJAJ-AUTO, year=2019","Duplicate composite key observation (company_id=BAJAJ-AUTO, year=2019)"
+DQ-16,WARNING,cashflow,215,"['company_id', 'year']","company_id=BAJAJ-AUTO, year=2020","Duplicate composite key observation (company_id=BAJAJ-AUTO, year=2020)"
+DQ-16,WARNING,cashflow,216,"['company_id', 'year']","company_id=BAJAJ-AUTO, year=2021","Duplicate composite key observation (company_id=BAJAJ-AUTO, year=2021)"
+DQ-16,WARNING,cashflow,217,"['company_id', 'year']","company_id=BAJAJ-AUTO, year=2022","Duplicate composite key observation (company_id=BAJAJ-AUTO, year=2022)"
+DQ-16,WARNING,cashflow,218,"['company_id', 'year']","company_id=BAJAJ-AUTO, year=2023","Duplicate composite key observation (company_id=BAJAJ-AUTO, year=2023)"
+DQ-16,WARNING,cashflow,219,"['company_id', 'year']","company_id=BAJAJ-AUTO, year=2024","Duplicate composite key observation (company_id=BAJAJ-AUTO, year=2024)"
+DQ-16,WARNING,cashflow,220,"['company_id', 'year']","company_id=BAJAJ-AUTO, year=2013","Duplicate composite key observation (company_id=BAJAJ-AUTO, year=2013)"
+DQ-16,WARNING,cashflow,221,"['company_id', 'year']","company_id=BAJAJ-AUTO, year=2014","Duplicate composite key observation (company_id=BAJAJ-AUTO, year=2014)"
+DQ-16,WARNING,cashflow,222,"['company_id', 'year']","company_id=BAJAJ-AUTO, year=2015","Duplicate composite key observation (company_id=BAJAJ-AUTO, year=2015)"
+DQ-16,WARNING,cashflow,223,"['company_id', 'year']","company_id=BAJAJ-AUTO, year=2016","Duplicate composite key observation (company_id=BAJAJ-AUTO, year=2016)"
+DQ-16,WARNING,cashflow,224,"['company_id', 'year']","company_id=BAJAJ-AUTO, year=2017","Duplicate composite key observation (company_id=BAJAJ-AUTO, year=2017)"
+DQ-16,WARNING,cashflow,225,"['company_id', 'year']","company_id=BAJAJ-AUTO, year=2018","Duplicate composite key observation (company_id=BAJAJ-AUTO, year=2018)"
+DQ-16,WARNING,cashflow,226,"['company_id', 'year']","company_id=BAJAJ-AUTO, year=2019","Duplicate composite key observation (company_id=BAJAJ-AUTO, year=2019)"
+DQ-16,WARNING,cashflow,227,"['company_id', 'year']","company_id=BAJAJ-AUTO, year=2020","Duplicate composite key observation (company_id=BAJAJ-AUTO, year=2020)"
+DQ-16,WARNING,cashflow,228,"['company_id', 'year']","company_id=BAJAJ-AUTO, year=2021","Duplicate composite key observation (company_id=BAJAJ-AUTO, year=2021)"
+DQ-16,WARNING,cashflow,229,"['company_id', 'year']","company_id=BAJAJ-AUTO, year=2022","Duplicate composite key observation (company_id=BAJAJ-AUTO, year=2022)"
+DQ-16,WARNING,cashflow,230,"['company_id', 'year']","company_id=BAJAJ-AUTO, year=2023","Duplicate composite key observation (company_id=BAJAJ-AUTO, year=2023)"
+DQ-16,WARNING,cashflow,231,"['company_id', 'year']","company_id=BAJAJ-AUTO, year=2024","Duplicate composite key observation (company_id=BAJAJ-AUTO, year=2024)"
+DQ-16,WARNING,cashflow,1098,"['company_id', 'year']","company_id=TCS, year=2013","Duplicate composite key observation (company_id=TCS, year=2013)"
+DQ-16,WARNING,cashflow,1099,"['company_id', 'year']","company_id=TCS, year=2014","Duplicate composite key observation (company_id=TCS, year=2014)"
+DQ-16,WARNING,cashflow,1100,"['company_id', 'year']","company_id=TCS, year=2015","Duplicate composite key observation (company_id=TCS, year=2015)"
+DQ-16,WARNING,cashflow,1101,"['company_id', 'year']","company_id=TCS, year=2016","Duplicate composite key observation (company_id=TCS, year=2016)"
+DQ-16,WARNING,cashflow,1102,"['company_id', 'year']","company_id=TCS, year=2017","Duplicate composite key observation (company_id=TCS, year=2017)"
+DQ-16,WARNING,cashflow,1103,"['company_id', 'year']","company_id=TCS, year=2018","Duplicate composite key observation (company_id=TCS, year=2018)"
+DQ-16,WARNING,cashflow,1104,"['company_id', 'year']","company_id=TCS, year=2019","Duplicate composite key observation (company_id=TCS, year=2019)"
+DQ-16,WARNING,cashflow,1105,"['company_id', 'year']","company_id=TCS, year=2020","Duplicate composite key observation (company_id=TCS, year=2020)"
+DQ-16,WARNING,cashflow,1106,"['company_id', 'year']","company_id=TCS, year=2021","Duplicate composite key observation (company_id=TCS, year=2021)"
+DQ-16,WARNING,cashflow,1107,"['company_id', 'year']","company_id=TCS, year=2022","Duplicate composite key observation (company_id=TCS, year=2022)"
+DQ-16,WARNING,cashflow,1108,"['company_id', 'year']","company_id=TCS, year=2023","Duplicate composite key observation (company_id=TCS, year=2023)"
+DQ-16,WARNING,cashflow,1109,"['company_id', 'year']","company_id=TCS, year=2024","Duplicate composite key observation (company_id=TCS, year=2024)"
+DQ-16,WARNING,financial_ratios,2,"['company_id', 'year']","company_id=ABB, year=2014","Duplicate composite key observation (company_id=ABB, year=2014)"
+DQ-16,WARNING,financial_ratios,3,"['company_id', 'year']","company_id=ABB, year=2014","Duplicate composite key observation (company_id=ABB, year=2014)"
+DQ-16,WARNING,financial_ratios,4,"['company_id', 'year']","company_id=ABB, year=2015","Duplicate composite key observation (company_id=ABB, year=2015)"
+DQ-16,WARNING,financial_ratios,5,"['company_id', 'year']","company_id=ABB, year=2015","Duplicate composite key observation (company_id=ABB, year=2015)"
+DQ-16,WARNING,financial_ratios,6,"['company_id', 'year']","company_id=ABB, year=2016","Duplicate composite key observation (company_id=ABB, year=2016)"
+DQ-16,WARNING,financial_ratios,7,"['company_id', 'year']","company_id=ABB, year=2016","Duplicate composite key observation (company_id=ABB, year=2016)"
+DQ-16,WARNING,financial_ratios,8,"['company_id', 'year']","company_id=ABB, year=2017","Duplicate composite key observation (company_id=ABB, year=2017)"
+DQ-16,WARNING,financial_ratios,9,"['company_id', 'year']","company_id=ABB, year=2017","Duplicate composite key observation (company_id=ABB, year=2017)"
+DQ-16,WARNING,financial_ratios,10,"['company_id', 'year']","company_id=ABB, year=2018","Duplicate composite key observation (company_id=ABB, year=2018)"
+DQ-16,WARNING,financial_ratios,11,"['company_id', 'year']","company_id=ABB, year=2018","Duplicate composite key observation (company_id=ABB, year=2018)"
+DQ-16,WARNING,financial_ratios,12,"['company_id', 'year']","company_id=ABB, year=2019","Duplicate composite key observation (company_id=ABB, year=2019)"
+DQ-16,WARNING,financial_ratios,13,"['company_id', 'year']","company_id=ABB, year=2019","Duplicate composite key observation (company_id=ABB, year=2019)"
+DQ-16,WARNING,financial_ratios,14,"['company_id', 'year']","company_id=ABB, year=2020","Duplicate composite key observation (company_id=ABB, year=2020)"
+DQ-16,WARNING,financial_ratios,15,"['company_id', 'year']","company_id=ABB, year=2020","Duplicate composite key observation (company_id=ABB, year=2020)"
+DQ-16,WARNING,financial_ratios,16,"['company_id', 'year']","company_id=ABB, year=2021","Duplicate composite key observation (company_id=ABB, year=2021)"
+DQ-16,WARNING,financial_ratios,17,"['company_id', 'year']","company_id=ABB, year=2021","Duplicate composite key observation (company_id=ABB, year=2021)"
+DQ-16,WARNING,financial_ratios,18,"['company_id', 'year']","company_id=ABB, year=2022","Duplicate composite key observation (company_id=ABB, year=2022)"
+DQ-16,WARNING,financial_ratios,19,"['company_id', 'year']","company_id=ABB, year=2022","Duplicate composite key observation (company_id=ABB, year=2022)"
+DQ-16,WARNING,financial_ratios,20,"['company_id', 'year']","company_id=ABB, year=2023","Duplicate composite key observation (company_id=ABB, year=2023)"
+DQ-16,WARNING,financial_ratios,21,"['company_id', 'year']","company_id=ABB, year=2023","Duplicate composite key observation (company_id=ABB, year=2023)"
+DQ-16,WARNING,financial_ratios,22,"['company_id', 'year']","company_id=ABB, year=2024","Duplicate composite key observation (company_id=ABB, year=2024)"
+DQ-16,WARNING,financial_ratios,23,"['company_id', 'year']","company_id=ABB, year=2024","Duplicate composite key observation (company_id=ABB, year=2024)"
+DQ-16,WARNING,financial_ratios,55,"['company_id', 'year']","company_id=ADANIPORTS, year=2013","Duplicate composite key observation (company_id=ADANIPORTS, year=2013)"
+DQ-16,WARNING,financial_ratios,56,"['company_id', 'year']","company_id=ADANIPORTS, year=2014","Duplicate composite key observation (company_id=ADANIPORTS, year=2014)"
+DQ-16,WARNING,financial_ratios,57,"['company_id', 'year']","company_id=ADANIPORTS, year=2015","Duplicate composite key observation (company_id=ADANIPORTS, year=2015)"
+DQ-16,WARNING,financial_ratios,58,"['company_id', 'year']","company_id=ADANIPORTS, year=2016","Duplicate composite key observation (company_id=ADANIPORTS, year=2016)"
+DQ-16,WARNING,financial_ratios,59,"['company_id', 'year']","company_id=ADANIPORTS, year=2017","Duplicate composite key observation (company_id=ADANIPORTS, year=2017)"
+DQ-16,WARNING,financial_ratios,60,"['company_id', 'year']","company_id=ADANIPORTS, year=2018","Duplicate composite key observation (company_id=ADANIPORTS, year=2018)"
+DQ-16,WARNING,financial_ratios,61,"['company_id', 'year']","company_id=ADANIPORTS, year=2019","Duplicate composite key observation (company_id=ADANIPORTS, year=2019)"
+DQ-16,WARNING,financial_ratios,62,"['company_id', 'year']","company_id=ADANIPORTS, year=2020","Duplicate composite key observation (company_id=ADANIPORTS, year=2020)"
+DQ-16,WARNING,financial_ratios,63,"['company_id', 'year']","company_id=ADANIPORTS, year=2021","Duplicate composite key observation (company_id=ADANIPORTS, year=2021)"
+DQ-16,WARNING,financial_ratios,64,"['company_id', 'year']","company_id=ADANIPORTS, year=2022","Duplicate composite key observation (company_id=ADANIPORTS, year=2022)"
+DQ-16,WARNING,financial_ratios,65,"['company_id', 'year']","company_id=ADANIPORTS, year=2023","Duplicate composite key observation (company_id=ADANIPORTS, year=2023)"
+DQ-16,WARNING,financial_ratios,66,"['company_id', 'year']","company_id=ADANIPORTS, year=2024","Duplicate composite key observation (company_id=ADANIPORTS, year=2024)"
+DQ-16,WARNING,financial_ratios,67,"['company_id', 'year']","company_id=ADANIPORTS, year=2013","Duplicate composite key observation (company_id=ADANIPORTS, year=2013)"
+DQ-16,WARNING,financial_ratios,68,"['company_id', 'year']","company_id=ADANIPORTS, year=2014","Duplicate composite key observation (company_id=ADANIPORTS, year=2014)"
+DQ-16,WARNING,financial_ratios,69,"['company_id', 'year']","company_id=ADANIPORTS, year=2015","Duplicate composite key observation (company_id=ADANIPORTS, year=2015)"
+DQ-16,WARNING,financial_ratios,70,"['company_id', 'year']","company_id=ADANIPORTS, year=2016","Duplicate composite key observation (company_id=ADANIPORTS, year=2016)"
+DQ-16,WARNING,financial_ratios,71,"['company_id', 'year']","company_id=ADANIPORTS, year=2017","Duplicate composite key observation (company_id=ADANIPORTS, year=2017)"
+DQ-16,WARNING,financial_ratios,72,"['company_id', 'year']","company_id=ADANIPORTS, year=2018","Duplicate composite key observation (company_id=ADANIPORTS, year=2018)"
+DQ-16,WARNING,financial_ratios,73,"['company_id', 'year']","company_id=ADANIPORTS, year=2019","Duplicate composite key observation (company_id=ADANIPORTS, year=2019)"
+DQ-16,WARNING,financial_ratios,74,"['company_id', 'year']","company_id=ADANIPORTS, year=2020","Duplicate composite key observation (company_id=ADANIPORTS, year=2020)"
+DQ-16,WARNING,financial_ratios,75,"['company_id', 'year']","company_id=ADANIPORTS, year=2021","Duplicate composite key observation (company_id=ADANIPORTS, year=2021)"
+DQ-16,WARNING,financial_ratios,76,"['company_id', 'year']","company_id=ADANIPORTS, year=2022","Duplicate composite key observation (company_id=ADANIPORTS, year=2022)"
+DQ-16,WARNING,financial_ratios,77,"['company_id', 'year']","company_id=ADANIPORTS, year=2023","Duplicate composite key observation (company_id=ADANIPORTS, year=2023)"
+DQ-16,WARNING,financial_ratios,78,"['company_id', 'year']","company_id=ADANIPORTS, year=2024","Duplicate composite key observation (company_id=ADANIPORTS, year=2024)"
+DQ-16,WARNING,financial_ratios,114,"['company_id', 'year']","company_id=ASIANPAINT, year=2013","Duplicate composite key observation (company_id=ASIANPAINT, year=2013)"
+DQ-16,WARNING,financial_ratios,115,"['company_id', 'year']","company_id=ASIANPAINT, year=2013","Duplicate composite key observation (company_id=ASIANPAINT, year=2013)"
+DQ-16,WARNING,financial_ratios,116,"['company_id', 'year']","company_id=ASIANPAINT, year=2014","Duplicate composite key observation (company_id=ASIANPAINT, year=2014)"
+DQ-16,WARNING,financial_ratios,117,"['company_id', 'year']","company_id=ASIANPAINT, year=2014","Duplicate composite key observation (company_id=ASIANPAINT, year=2014)"
+DQ-16,WARNING,financial_ratios,118,"['company_id', 'year']","company_id=ASIANPAINT, year=2015","Duplicate composite key observation (company_id=ASIANPAINT, year=2015)"
+DQ-16,WARNING,financial_ratios,119,"['company_id', 'year']","company_id=ASIANPAINT, year=2015","Duplicate composite key observation (company_id=ASIANPAINT, year=2015)"
+DQ-16,WARNING,financial_ratios,120,"['company_id', 'year']","company_id=ASIANPAINT, year=2016","Duplicate composite key observation (company_id=ASIANPAINT, year=2016)"
+DQ-16,WARNING,financial_ratios,121,"['company_id', 'year']","company_id=ASIANPAINT, year=2016","Duplicate composite key observation (company_id=ASIANPAINT, year=2016)"
+DQ-16,WARNING,financial_ratios,122,"['company_id', 'year']","company_id=ASIANPAINT, year=2017","Duplicate composite key observation (company_id=ASIANPAINT, year=2017)"
+DQ-16,WARNING,financial_ratios,123,"['company_id', 'year']","company_id=ASIANPAINT, year=2017","Duplicate composite key observation (company_id=ASIANPAINT, year=2017)"
+DQ-16,WARNING,financial_ratios,124,"['company_id', 'year']","company_id=ASIANPAINT, year=2018","Duplicate composite key observation (company_id=ASIANPAINT, year=2018)"
+DQ-16,WARNING,financial_ratios,125,"['company_id', 'year']","company_id=ASIANPAINT, year=2018","Duplicate composite key observation (company_id=ASIANPAINT, year=2018)"
+DQ-16,WARNING,financial_ratios,126,"['company_id', 'year']","company_id=ASIANPAINT, year=2019","Duplicate composite key observation (company_id=ASIANPAINT, year=2019)"
+DQ-16,WARNING,financial_ratios,127,"['company_id', 'year']","company_id=ASIANPAINT, year=2019","Duplicate composite key observation (company_id=ASIANPAINT, year=2019)"
+DQ-16,WARNING,financial_ratios,128,"['company_id', 'year']","company_id=ASIANPAINT, year=2020","Duplicate composite key observation (company_id=ASIANPAINT, year=2020)"
+DQ-16,WARNING,financial_ratios,129,"['company_id', 'year']","company_id=ASIANPAINT, year=2020","Duplicate composite key observation (company_id=ASIANPAINT, year=2020)"
+DQ-16,WARNING,financial_ratios,130,"['company_id', 'year']","company_id=ASIANPAINT, year=2021","Duplicate composite key observation (company_id=ASIANPAINT, year=2021)"
+DQ-16,WARNING,financial_ratios,131,"['company_id', 'year']","company_id=ASIANPAINT, year=2021","Duplicate composite key observation (company_id=ASIANPAINT, year=2021)"
+DQ-16,WARNING,financial_ratios,132,"['company_id', 'year']","company_id=ASIANPAINT, year=2022","Duplicate composite key observation (company_id=ASIANPAINT, year=2022)"
+DQ-16,WARNING,financial_ratios,133,"['company_id', 'year']","company_id=ASIANPAINT, year=2022","Duplicate composite key observation (company_id=ASIANPAINT, year=2022)"
+DQ-16,WARNING,financial_ratios,134,"['company_id', 'year']","company_id=ASIANPAINT, year=2023","Duplicate composite key observation (company_id=ASIANPAINT, year=2023)"
+DQ-16,WARNING,financial_ratios,135,"['company_id', 'year']","company_id=ASIANPAINT, year=2023","Duplicate composite key observation (company_id=ASIANPAINT, year=2023)"
+DQ-16,WARNING,financial_ratios,136,"['company_id', 'year']","company_id=ASIANPAINT, year=2024","Duplicate composite key observation (company_id=ASIANPAINT, year=2024)"
+DQ-16,WARNING,financial_ratios,137,"['company_id', 'year']","company_id=ASIANPAINT, year=2024","Duplicate composite key observation (company_id=ASIANPAINT, year=2024)"
+DQ-16,WARNING,financial_ratios,138,"['company_id', 'year']","company_id=BAJAJ-AUTO, year=2013","Duplicate composite key observation (company_id=BAJAJ-AUTO, year=2013)"
+DQ-16,WARNING,financial_ratios,139,"['company_id', 'year']","company_id=BAJAJ-AUTO, year=2013","Duplicate composite key observation (company_id=BAJAJ-AUTO, year=2013)"
+DQ-16,WARNING,financial_ratios,140,"['company_id', 'year']","company_id=BAJAJ-AUTO, year=2014","Duplicate composite key observation (company_id=BAJAJ-AUTO, year=2014)"
+DQ-16,WARNING,financial_ratios,141,"['company_id', 'year']","company_id=BAJAJ-AUTO, year=2014","Duplicate composite key observation (company_id=BAJAJ-AUTO, year=2014)"
+DQ-16,WARNING,financial_ratios,142,"['company_id', 'year']","company_id=BAJAJ-AUTO, year=2015","Duplicate composite key observation (company_id=BAJAJ-AUTO, year=2015)"
+DQ-16,WARNING,financial_ratios,143,"['company_id', 'year']","company_id=BAJAJ-AUTO, year=2015","Duplicate composite key observation (company_id=BAJAJ-AUTO, year=2015)"
+DQ-16,WARNING,financial_ratios,144,"['company_id', 'year']","company_id=BAJAJ-AUTO, year=2016","Duplicate composite key observation (company_id=BAJAJ-AUTO, year=2016)"
+DQ-16,WARNING,financial_ratios,145,"['company_id', 'year']","company_id=BAJAJ-AUTO, year=2016","Duplicate composite key observation (company_id=BAJAJ-AUTO, year=2016)"
+DQ-16,WARNING,financial_ratios,146,"['company_id', 'year']","company_id=BAJAJ-AUTO, year=2017","Duplicate composite key observation (company_id=BAJAJ-AUTO, year=2017)"
+DQ-16,WARNING,financial_ratios,147,"['company_id', 'year']","company_id=BAJAJ-AUTO, year=2017","Duplicate composite key observation (company_id=BAJAJ-AUTO, year=2017)"
+DQ-16,WARNING,financial_ratios,148,"['company_id', 'year']","company_id=BAJAJ-AUTO, year=2018","Duplicate composite key observation (company_id=BAJAJ-AUTO, year=2018)"
+DQ-16,WARNING,financial_ratios,149,"['company_id', 'year']","company_id=BAJAJ-AUTO, year=2018","Duplicate composite key observation (company_id=BAJAJ-AUTO, year=2018)"
+DQ-16,WARNING,financial_ratios,150,"['company_id', 'year']","company_id=BAJAJ-AUTO, year=2019","Duplicate composite key observation (company_id=BAJAJ-AUTO, year=2019)"
+DQ-16,WARNING,financial_ratios,151,"['company_id', 'year']","company_id=BAJAJ-AUTO, year=2019","Duplicate composite key observation (company_id=BAJAJ-AUTO, year=2019)"
+DQ-16,WARNING,financial_ratios,152,"['company_id', 'year']","company_id=BAJAJ-AUTO, year=2020","Duplicate composite key observation (company_id=BAJAJ-AUTO, year=2020)"
+DQ-16,WARNING,financial_ratios,153,"['company_id', 'year']","company_id=BAJAJ-AUTO, year=2020","Duplicate composite key observation (company_id=BAJAJ-AUTO, year=2020)"
+DQ-16,WARNING,financial_ratios,154,"['company_id', 'year']","company_id=BAJAJ-AUTO, year=2021","Duplicate composite key observation (company_id=BAJAJ-AUTO, year=2021)"
+DQ-16,WARNING,financial_ratios,155,"['company_id', 'year']","company_id=BAJAJ-AUTO, year=2021","Duplicate composite key observation (company_id=BAJAJ-AUTO, year=2021)"
+DQ-16,WARNING,financial_ratios,156,"['company_id', 'year']","company_id=BAJAJ-AUTO, year=2022","Duplicate composite key observation (company_id=BAJAJ-AUTO, year=2022)"
+DQ-16,WARNING,financial_ratios,157,"['company_id', 'year']","company_id=BAJAJ-AUTO, year=2022","Duplicate composite key observation (company_id=BAJAJ-AUTO, year=2022)"
+DQ-16,WARNING,financial_ratios,158,"['company_id', 'year']","company_id=BAJAJ-AUTO, year=2023","Duplicate composite key observation (company_id=BAJAJ-AUTO, year=2023)"
+DQ-16,WARNING,financial_ratios,159,"['company_id', 'year']","company_id=BAJAJ-AUTO, year=2023","Duplicate composite key observation (company_id=BAJAJ-AUTO, year=2023)"
+DQ-16,WARNING,financial_ratios,160,"['company_id', 'year']","company_id=BAJAJ-AUTO, year=2024","Duplicate composite key observation (company_id=BAJAJ-AUTO, year=2024)"
+DQ-16,WARNING,financial_ratios,161,"['company_id', 'year']","company_id=BAJAJ-AUTO, year=2024","Duplicate composite key observation (company_id=BAJAJ-AUTO, year=2024)"
+DQ-16,WARNING,financial_ratios,850,"['company_id', 'year']","company_id=PNB, year=2013","Duplicate composite key observation (company_id=PNB, year=2013)"
+DQ-16,WARNING,financial_ratios,851,"['company_id', 'year']","company_id=PNB, year=2013","Duplicate composite key observation (company_id=PNB, year=2013)"
+DQ-16,WARNING,financial_ratios,852,"['company_id', 'year']","company_id=PNB, year=2013","Duplicate composite key observation (company_id=PNB, year=2013)"
+DQ-16,WARNING,financial_ratios,853,"['company_id', 'year']","company_id=PNB, year=2013","Duplicate composite key observation (company_id=PNB, year=2013)"
+DQ-16,WARNING,financial_ratios,854,"['company_id', 'year']","company_id=PNB, year=2013","Duplicate composite key observation (company_id=PNB, year=2013)"
+DQ-16,WARNING,financial_ratios,855,"['company_id', 'year']","company_id=PNB, year=2014","Duplicate composite key observation (company_id=PNB, year=2014)"
+DQ-16,WARNING,financial_ratios,856,"['company_id', 'year']","company_id=PNB, year=2014","Duplicate composite key observation (company_id=PNB, year=2014)"
+DQ-16,WARNING,financial_ratios,857,"['company_id', 'year']","company_id=PNB, year=2014","Duplicate composite key observation (company_id=PNB, year=2014)"
+DQ-16,WARNING,financial_ratios,858,"['company_id', 'year']","company_id=PNB, year=2014","Duplicate composite key observation (company_id=PNB, year=2014)"
+DQ-16,WARNING,financial_ratios,859,"['company_id', 'year']","company_id=PNB, year=2014","Duplicate composite key observation (company_id=PNB, year=2014)"
+DQ-16,WARNING,financial_ratios,860,"['company_id', 'year']","company_id=PNB, year=2015","Duplicate composite key observation (company_id=PNB, year=2015)"
+DQ-16,WARNING,financial_ratios,861,"['company_id', 'year']","company_id=PNB, year=2015","Duplicate composite key observation (company_id=PNB, year=2015)"
+DQ-16,WARNING,financial_ratios,862,"['company_id', 'year']","company_id=PNB, year=2015","Duplicate composite key observation (company_id=PNB, year=2015)"
+DQ-16,WARNING,financial_ratios,863,"['company_id', 'year']","company_id=PNB, year=2015","Duplicate composite key observation (company_id=PNB, year=2015)"
+DQ-16,WARNING,financial_ratios,864,"['company_id', 'year']","company_id=PNB, year=2015","Duplicate composite key observation (company_id=PNB, year=2015)"
+DQ-16,WARNING,financial_ratios,865,"['company_id', 'year']","company_id=PNB, year=2016","Duplicate composite key observation (company_id=PNB, year=2016)"
+DQ-16,WARNING,financial_ratios,866,"['company_id', 'year']","company_id=PNB, year=2016","Duplicate composite key observation (company_id=PNB, year=2016)"
+DQ-16,WARNING,financial_ratios,867,"['company_id', 'year']","company_id=PNB, year=2016","Duplicate composite key observation (company_id=PNB, year=2016)"
+DQ-16,WARNING,financial_ratios,868,"['company_id', 'year']","company_id=PNB, year=2016","Duplicate composite key observation (company_id=PNB, year=2016)"
+DQ-16,WARNING,financial_ratios,869,"['company_id', 'year']","company_id=PNB, year=2016","Duplicate composite key observation (company_id=PNB, year=2016)"
+DQ-16,WARNING,financial_ratios,870,"['company_id', 'year']","company_id=PNB, year=2017","Duplicate composite key observation (company_id=PNB, year=2017)"
+DQ-16,WARNING,financial_ratios,871,"['company_id', 'year']","company_id=PNB, year=2017","Duplicate composite key observation (company_id=PNB, year=2017)"
+DQ-16,WARNING,financial_ratios,872,"['company_id', 'year']","company_id=PNB, year=2017","Duplicate composite key observation (company_id=PNB, year=2017)"
+DQ-16,WARNING,financial_ratios,873,"['company_id', 'year']","company_id=PNB, year=2017","Duplicate composite key observation (company_id=PNB, year=2017)"
+DQ-16,WARNING,financial_ratios,874,"['company_id', 'year']","company_id=PNB, year=2017","Duplicate composite key observation (company_id=PNB, year=2017)"
+DQ-16,WARNING,financial_ratios,875,"['company_id', 'year']","company_id=PNB, year=2018","Duplicate composite key observation (company_id=PNB, year=2018)"
+DQ-16,WARNING,financial_ratios,876,"['company_id', 'year']","company_id=PNB, year=2018","Duplicate composite key observation (company_id=PNB, year=2018)"
+DQ-16,WARNING,financial_ratios,877,"['company_id', 'year']","company_id=PNB, year=2018","Duplicate composite key observation (company_id=PNB, year=2018)"
+DQ-16,WARNING,financial_ratios,878,"['company_id', 'year']","company_id=PNB, year=2018","Duplicate composite key observation (company_id=PNB, year=2018)"
+DQ-16,WARNING,financial_ratios,879,"['company_id', 'year']","company_id=PNB, year=2018","Duplicate composite key observation (company_id=PNB, year=2018)"
+DQ-16,WARNING,financial_ratios,880,"['company_id', 'year']","company_id=PNB, year=2019","Duplicate composite key observation (company_id=PNB, year=2019)"
+DQ-16,WARNING,financial_ratios,881,"['company_id', 'year']","company_id=PNB, year=2019","Duplicate composite key observation (company_id=PNB, year=2019)"
+DQ-16,WARNING,financial_ratios,882,"['company_id', 'year']","company_id=PNB, year=2019","Duplicate composite key observation (company_id=PNB, year=2019)"
+DQ-16,WARNING,financial_ratios,883,"['company_id', 'year']","company_id=PNB, year=2019","Duplicate composite key observation (company_id=PNB, year=2019)"
+DQ-16,WARNING,financial_ratios,884,"['company_id', 'year']","company_id=PNB, year=2019","Duplicate composite key observation (company_id=PNB, year=2019)"
+DQ-16,WARNING,financial_ratios,885,"['company_id', 'year']","company_id=PNB, year=2020","Duplicate composite key observation (company_id=PNB, year=2020)"
+DQ-16,WARNING,financial_ratios,886,"['company_id', 'year']","company_id=PNB, year=2020","Duplicate composite key observation (company_id=PNB, year=2020)"
+DQ-16,WARNING,financial_ratios,887,"['company_id', 'year']","company_id=PNB, year=2020","Duplicate composite key observation (company_id=PNB, year=2020)"
+DQ-16,WARNING,financial_ratios,888,"['company_id', 'year']","company_id=PNB, year=2020","Duplicate composite key observation (company_id=PNB, year=2020)"
+DQ-16,WARNING,financial_ratios,889,"['company_id', 'year']","company_id=PNB, year=2020","Duplicate composite key observation (company_id=PNB, year=2020)"
+DQ-16,WARNING,financial_ratios,890,"['company_id', 'year']","company_id=PNB, year=2021","Duplicate composite key observation (company_id=PNB, year=2021)"
+DQ-16,WARNING,financial_ratios,891,"['company_id', 'year']","company_id=PNB, year=2021","Duplicate composite key observation (company_id=PNB, year=2021)"
+DQ-16,WARNING,financial_ratios,892,"['company_id', 'year']","company_id=PNB, year=2021","Duplicate composite key observation (company_id=PNB, year=2021)"
+DQ-16,WARNING,financial_ratios,893,"['company_id', 'year']","company_id=PNB, year=2021","Duplicate composite key observation (company_id=PNB, year=2021)"
+DQ-16,WARNING,financial_ratios,894,"['company_id', 'year']","company_id=PNB, year=2021","Duplicate composite key observation (company_id=PNB, year=2021)"
+DQ-16,WARNING,financial_ratios,895,"['company_id', 'year']","company_id=PNB, year=2022","Duplicate composite key observation (company_id=PNB, year=2022)"
+DQ-16,WARNING,financial_ratios,896,"['company_id', 'year']","company_id=PNB, year=2022","Duplicate composite key observation (company_id=PNB, year=2022)"
+DQ-16,WARNING,financial_ratios,897,"['company_id', 'year']","company_id=PNB, year=2022","Duplicate composite key observation (company_id=PNB, year=2022)"
+DQ-16,WARNING,financial_ratios,898,"['company_id', 'year']","company_id=PNB, year=2022","Duplicate composite key observation (company_id=PNB, year=2022)"
+DQ-16,WARNING,financial_ratios,899,"['company_id', 'year']","company_id=PNB, year=2022","Duplicate composite key observation (company_id=PNB, year=2022)"
+DQ-16,WARNING,financial_ratios,900,"['company_id', 'year']","company_id=PNB, year=2023","Duplicate composite key observation (company_id=PNB, year=2023)"
+DQ-16,WARNING,financial_ratios,901,"['company_id', 'year']","company_id=PNB, year=2023","Duplicate composite key observation (company_id=PNB, year=2023)"
+DQ-16,WARNING,financial_ratios,902,"['company_id', 'year']","company_id=PNB, year=2023","Duplicate composite key observation (company_id=PNB, year=2023)"
+DQ-16,WARNING,financial_ratios,903,"['company_id', 'year']","company_id=PNB, year=2023","Duplicate composite key observation (company_id=PNB, year=2023)"
+DQ-16,WARNING,financial_ratios,904,"['company_id', 'year']","company_id=PNB, year=2023","Duplicate composite key observation (company_id=PNB, year=2023)"
+DQ-16,WARNING,financial_ratios,905,"['company_id', 'year']","company_id=PNB, year=2024","Duplicate composite key observation (company_id=PNB, year=2024)"
+DQ-16,WARNING,financial_ratios,906,"['company_id', 'year']","company_id=PNB, year=2024","Duplicate composite key observation (company_id=PNB, year=2024)"
+DQ-16,WARNING,financial_ratios,907,"['company_id', 'year']","company_id=PNB, year=2024","Duplicate composite key observation (company_id=PNB, year=2024)"
+DQ-16,WARNING,financial_ratios,908,"['company_id', 'year']","company_id=PNB, year=2024","Duplicate composite key observation (company_id=PNB, year=2024)"
+DQ-16,WARNING,financial_ratios,909,"['company_id', 'year']","company_id=PNB, year=2024","Duplicate composite key observation (company_id=PNB, year=2024)"
+DQ-16,WARNING,financial_ratios,910,"['company_id', 'year']","company_id=POWERGRID, year=2013","Duplicate composite key observation (company_id=POWERGRID, year=2013)"
+DQ-16,WARNING,financial_ratios,911,"['company_id', 'year']","company_id=POWERGRID, year=2013","Duplicate composite key observation (company_id=POWERGRID, year=2013)"
+DQ-16,WARNING,financial_ratios,912,"['company_id', 'year']","company_id=POWERGRID, year=2014","Duplicate composite key observation (company_id=POWERGRID, year=2014)"
+DQ-16,WARNING,financial_ratios,913,"['company_id', 'year']","company_id=POWERGRID, year=2014","Duplicate composite key observation (company_id=POWERGRID, year=2014)"
+DQ-16,WARNING,financial_ratios,914,"['company_id', 'year']","company_id=POWERGRID, year=2015","Duplicate composite key observation (company_id=POWERGRID, year=2015)"
+DQ-16,WARNING,financial_ratios,915,"['company_id', 'year']","company_id=POWERGRID, year=2015","Duplicate composite key observation (company_id=POWERGRID, year=2015)"
+DQ-16,WARNING,financial_ratios,916,"['company_id', 'year']","company_id=POWERGRID, year=2016","Duplicate composite key observation (company_id=POWERGRID, year=2016)"
+DQ-16,WARNING,financial_ratios,917,"['company_id', 'year']","company_id=POWERGRID, year=2016","Duplicate composite key observation (company_id=POWERGRID, year=2016)"
+DQ-16,WARNING,financial_ratios,918,"['company_id', 'year']","company_id=POWERGRID, year=2017","Duplicate composite key observation (company_id=POWERGRID, year=2017)"
+DQ-16,WARNING,financial_ratios,919,"['company_id', 'year']","company_id=POWERGRID, year=2017","Duplicate composite key observation (company_id=POWERGRID, year=2017)"
+DQ-16,WARNING,financial_ratios,920,"['company_id', 'year']","company_id=POWERGRID, year=2018","Duplicate composite key observation (company_id=POWERGRID, year=2018)"
+DQ-16,WARNING,financial_ratios,921,"['company_id', 'year']","company_id=POWERGRID, year=2018","Duplicate composite key observation (company_id=POWERGRID, year=2018)"
+DQ-16,WARNING,financial_ratios,922,"['company_id', 'year']","company_id=POWERGRID, year=2019","Duplicate composite key observation (company_id=POWERGRID, year=2019)"
+DQ-16,WARNING,financial_ratios,923,"['company_id', 'year']","company_id=POWERGRID, year=2019","Duplicate composite key observation (company_id=POWERGRID, year=2019)"
+DQ-16,WARNING,financial_ratios,924,"['company_id', 'year']","company_id=POWERGRID, year=2020","Duplicate composite key observation (company_id=POWERGRID, year=2020)"
+DQ-16,WARNING,financial_ratios,925,"['company_id', 'year']","company_id=POWERGRID, year=2020","Duplicate composite key observation (company_id=POWERGRID, year=2020)"
+DQ-16,WARNING,financial_ratios,926,"['company_id', 'year']","company_id=POWERGRID, year=2021","Duplicate composite key observation (company_id=POWERGRID, year=2021)"
+DQ-16,WARNING,financial_ratios,927,"['company_id', 'year']","company_id=POWERGRID, year=2021","Duplicate composite key observation (company_id=POWERGRID, year=2021)"
+DQ-16,WARNING,financial_ratios,928,"['company_id', 'year']","company_id=POWERGRID, year=2022","Duplicate composite key observation (company_id=POWERGRID, year=2022)"
+DQ-16,WARNING,financial_ratios,929,"['company_id', 'year']","company_id=POWERGRID, year=2022","Duplicate composite key observation (company_id=POWERGRID, year=2022)"
+DQ-16,WARNING,financial_ratios,930,"['company_id', 'year']","company_id=POWERGRID, year=2023","Duplicate composite key observation (company_id=POWERGRID, year=2023)"
+DQ-16,WARNING,financial_ratios,931,"['company_id', 'year']","company_id=POWERGRID, year=2023","Duplicate composite key observation (company_id=POWERGRID, year=2023)"
+DQ-16,WARNING,financial_ratios,932,"['company_id', 'year']","company_id=POWERGRID, year=2024","Duplicate composite key observation (company_id=POWERGRID, year=2024)"
+DQ-16,WARNING,financial_ratios,933,"['company_id', 'year']","company_id=POWERGRID, year=2024","Duplicate composite key observation (company_id=POWERGRID, year=2024)"
+DQ-16,WARNING,financial_ratios,1077,"['company_id', 'year']","company_id=TECHM, year=2013","Duplicate composite key observation (company_id=TECHM, year=2013)"
+DQ-16,WARNING,financial_ratios,1078,"['company_id', 'year']","company_id=TECHM, year=2013","Duplicate composite key observation (company_id=TECHM, year=2013)"
+DQ-16,WARNING,financial_ratios,1079,"['company_id', 'year']","company_id=TECHM, year=2014","Duplicate composite key observation (company_id=TECHM, year=2014)"
+DQ-16,WARNING,financial_ratios,1080,"['company_id', 'year']","company_id=TECHM, year=2014","Duplicate composite key observation (company_id=TECHM, year=2014)"
+DQ-16,WARNING,financial_ratios,1081,"['company_id', 'year']","company_id=TECHM, year=2015","Duplicate composite key observation (company_id=TECHM, year=2015)"
+DQ-16,WARNING,financial_ratios,1082,"['company_id', 'year']","company_id=TECHM, year=2015","Duplicate composite key observation (company_id=TECHM, year=2015)"
+DQ-16,WARNING,financial_ratios,1083,"['company_id', 'year']","company_id=TECHM, year=2016","Duplicate composite key observation (company_id=TECHM, year=2016)"
+DQ-16,WARNING,financial_ratios,1084,"['company_id', 'year']","company_id=TECHM, year=2016","Duplicate composite key observation (company_id=TECHM, year=2016)"
+DQ-16,WARNING,financial_ratios,1085,"['company_id', 'year']","company_id=TECHM, year=2017","Duplicate composite key observation (company_id=TECHM, year=2017)"
+DQ-16,WARNING,financial_ratios,1086,"['company_id', 'year']","company_id=TECHM, year=2017","Duplicate composite key observation (company_id=TECHM, year=2017)"
+DQ-16,WARNING,financial_ratios,1087,"['company_id', 'year']","company_id=TECHM, year=2018","Duplicate composite key observation (company_id=TECHM, year=2018)"
+DQ-16,WARNING,financial_ratios,1088,"['company_id', 'year']","company_id=TECHM, year=2018","Duplicate composite key observation (company_id=TECHM, year=2018)"
+DQ-16,WARNING,financial_ratios,1089,"['company_id', 'year']","company_id=TECHM, year=2019","Duplicate composite key observation (company_id=TECHM, year=2019)"
+DQ-16,WARNING,financial_ratios,1090,"['company_id', 'year']","company_id=TECHM, year=2019","Duplicate composite key observation (company_id=TECHM, year=2019)"
+DQ-16,WARNING,financial_ratios,1091,"['company_id', 'year']","company_id=TECHM, year=2020","Duplicate composite key observation (company_id=TECHM, year=2020)"
+DQ-16,WARNING,financial_ratios,1092,"['company_id', 'year']","company_id=TECHM, year=2020","Duplicate composite key observation (company_id=TECHM, year=2020)"
+DQ-16,WARNING,financial_ratios,1093,"['company_id', 'year']","company_id=TECHM, year=2021","Duplicate composite key observation (company_id=TECHM, year=2021)"
+DQ-16,WARNING,financial_ratios,1094,"['company_id', 'year']","company_id=TECHM, year=2021","Duplicate composite key observation (company_id=TECHM, year=2021)"
+DQ-16,WARNING,financial_ratios,1095,"['company_id', 'year']","company_id=TECHM, year=2022","Duplicate composite key observation (company_id=TECHM, year=2022)"
+DQ-16,WARNING,financial_ratios,1096,"['company_id', 'year']","company_id=TECHM, year=2022","Duplicate composite key observation (company_id=TECHM, year=2022)"
+DQ-16,WARNING,financial_ratios,1097,"['company_id', 'year']","company_id=TECHM, year=2023","Duplicate composite key observation (company_id=TECHM, year=2023)"
+DQ-16,WARNING,financial_ratios,1098,"['company_id', 'year']","company_id=TECHM, year=2023","Duplicate composite key observation (company_id=TECHM, year=2023)"
+DQ-16,WARNING,financial_ratios,1099,"['company_id', 'year']","company_id=TECHM, year=2024","Duplicate composite key observation (company_id=TECHM, year=2024)"
+DQ-16,WARNING,financial_ratios,1100,"['company_id', 'year']","company_id=TECHM, year=2024","Duplicate composite key observation (company_id=TECHM, year=2024)"
+DQ-16,WARNING,profitandloss,120,"['company_id', 'year']","company_id=ADANIPORTS, year=2013.0","Duplicate composite key observation (company_id=ADANIPORTS, year=2013.0)"
+DQ-16,WARNING,profitandloss,121,"['company_id', 'year']","company_id=ADANIPORTS, year=2014.0","Duplicate composite key observation (company_id=ADANIPORTS, year=2014.0)"
+DQ-16,WARNING,profitandloss,122,"['company_id', 'year']","company_id=ADANIPORTS, year=2015.0","Duplicate composite key observation (company_id=ADANIPORTS, year=2015.0)"
+DQ-16,WARNING,profitandloss,123,"['company_id', 'year']","company_id=ADANIPORTS, year=2016.0","Duplicate composite key observation (company_id=ADANIPORTS, year=2016.0)"
+DQ-16,WARNING,profitandloss,124,"['company_id', 'year']","company_id=ADANIPORTS, year=2017.0","Duplicate composite key observation (company_id=ADANIPORTS, year=2017.0)"
+DQ-16,WARNING,profitandloss,125,"['company_id', 'year']","company_id=ADANIPORTS, year=2018.0","Duplicate composite key observation (company_id=ADANIPORTS, year=2018.0)"
+DQ-16,WARNING,profitandloss,126,"['company_id', 'year']","company_id=ADANIPORTS, year=2019.0","Duplicate composite key observation (company_id=ADANIPORTS, year=2019.0)"
+DQ-16,WARNING,profitandloss,127,"['company_id', 'year']","company_id=ADANIPORTS, year=2020.0","Duplicate composite key observation (company_id=ADANIPORTS, year=2020.0)"
+DQ-16,WARNING,profitandloss,128,"['company_id', 'year']","company_id=ADANIPORTS, year=2021.0","Duplicate composite key observation (company_id=ADANIPORTS, year=2021.0)"
+DQ-16,WARNING,profitandloss,129,"['company_id', 'year']","company_id=ADANIPORTS, year=2022.0","Duplicate composite key observation (company_id=ADANIPORTS, year=2022.0)"
+DQ-16,WARNING,profitandloss,130,"['company_id', 'year']","company_id=ADANIPORTS, year=2023.0","Duplicate composite key observation (company_id=ADANIPORTS, year=2023.0)"
+DQ-16,WARNING,profitandloss,131,"['company_id', 'year']","company_id=ADANIPORTS, year=2024.0","Duplicate composite key observation (company_id=ADANIPORTS, year=2024.0)"
+DQ-16,WARNING,profitandloss,133,"['company_id', 'year']","company_id=ADANIPORTS, year=2013.0","Duplicate composite key observation (company_id=ADANIPORTS, year=2013.0)"
+DQ-16,WARNING,profitandloss,134,"['company_id', 'year']","company_id=ADANIPORTS, year=2014.0","Duplicate composite key observation (company_id=ADANIPORTS, year=2014.0)"
+DQ-16,WARNING,profitandloss,135,"['company_id', 'year']","company_id=ADANIPORTS, year=2015.0","Duplicate composite key observation (company_id=ADANIPORTS, year=2015.0)"
+DQ-16,WARNING,profitandloss,136,"['company_id', 'year']","company_id=ADANIPORTS, year=2016.0","Duplicate composite key observation (company_id=ADANIPORTS, year=2016.0)"
+DQ-16,WARNING,profitandloss,137,"['company_id', 'year']","company_id=ADANIPORTS, year=2017.0","Duplicate composite key observation (company_id=ADANIPORTS, year=2017.0)"
+DQ-16,WARNING,profitandloss,138,"['company_id', 'year']","company_id=ADANIPORTS, year=2018.0","Duplicate composite key observation (company_id=ADANIPORTS, year=2018.0)"
+DQ-16,WARNING,profitandloss,139,"['company_id', 'year']","company_id=ADANIPORTS, year=2019.0","Duplicate composite key observation (company_id=ADANIPORTS, year=2019.0)"
+DQ-16,WARNING,profitandloss,140,"['company_id', 'year']","company_id=ADANIPORTS, year=2020.0","Duplicate composite key observation (company_id=ADANIPORTS, year=2020.0)"
+DQ-16,WARNING,profitandloss,141,"['company_id', 'year']","company_id=ADANIPORTS, year=2021.0","Duplicate composite key observation (company_id=ADANIPORTS, year=2021.0)"
+DQ-16,WARNING,profitandloss,142,"['company_id', 'year']","company_id=ADANIPORTS, year=2022.0","Duplicate composite key observation (company_id=ADANIPORTS, year=2022.0)"
+DQ-16,WARNING,profitandloss,143,"['company_id', 'year']","company_id=ADANIPORTS, year=2023.0","Duplicate composite key observation (company_id=ADANIPORTS, year=2023.0)"
+DQ-16,WARNING,profitandloss,144,"['company_id', 'year']","company_id=ADANIPORTS, year=2024.0","Duplicate composite key observation (company_id=ADANIPORTS, year=2024.0)"

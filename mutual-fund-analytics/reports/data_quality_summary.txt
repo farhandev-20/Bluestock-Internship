@@ -1,0 +1,67 @@
+DATA QUALITY SUMMARY - DAY 1
+
+Project: Mutual Fund Analytics
+Date: 04 September 2026
+
+1. DATASETS CHECKED
+
+A total of 10 CSV datasets were successfully loaded and inspected using Pandas.
+
+2. DATASET SIZES
+
+01_fund_master.csv
+40 rows × 15 columns
+
+02_nav_history.csv
+46,000 rows × 3 columns
+
+03_aum_by_fund_house.csv
+90 rows × 5 columns
+
+04_monthly_sip_inflows.csv
+48 rows × 6 columns
+
+05_category_inflows.csv
+144 rows × 3 columns
+
+06_industry_folio_count.csv
+21 rows × 6 columns
+
+07_scheme_performance.csv
+40 rows × 19 columns
+
+08_investor_transactions.csv
+32,778 rows × 13 columns
+
+09_portfolio_holdings.csv
+322 rows × 8 columns
+
+10_benchmark_indices.csv
+8,050 rows × 3 columns
+
+
+3. DATA QUALITY CHECKS
+
+Duplicate rows:
+No duplicate rows were found in any of the 10 datasets.
+
+Missing values:
+Most datasets contain no missing values.
+
+04_monthly_sip_inflows.csv contains 12 missing values in:
+yoy_growth_pct
+
+4. OBSERVATIONS / ANOMALIES
+
+- Missing yoy_growth_pct values were found in monthly SIP inflows data.
+- Portfolio holding weights have very small rounding differences from exactly 100% per fund, ranging from approximately 99.98% to 100.02%.
+- Negative max_drawdown_pct values in scheme performance represent drawdowns/losses and are expected financial values rather than necessarily invalid data.
+- No duplicate rows were detected across the datasets.
+
+5. CONCLUSION
+
+The 10 CSV datasets were successfully ingested and checked.
+
+The main data-quality issue identified is the presence of 12 missing yoy_growth_pct values in the monthly SIP inflows dataset.
+
+Other observations are minor and do not indicate a major data integrity problem.

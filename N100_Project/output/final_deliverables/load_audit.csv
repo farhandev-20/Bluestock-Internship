@@ -1,0 +1,13 @@
+table_name,source_file,source_rows,loaded_rows,column_count,null_cell_count,dq_failure_count,status,load_timestamp
+analysis,analysis.xlsx,20,20,6,0,0,SUCCESS,2026-09-19T10:16:08.293137
+balancesheet,balancesheet.xlsx,1312,1312,13,0,322,SUCCESS,2026-09-19T10:16:08.293137
+cashflow,cashflow.xlsx,1187,1187,7,8,71,SUCCESS,2026-09-19T10:16:08.293137
+companies,companies.xlsx,92,100,12,89,0,SUCCESS,2026-09-19T10:16:08.293137
+documents,documents.xlsx,1585,1585,4,52,331,SUCCESS,2026-09-19T10:16:08.293137
+financial_ratios,financial_ratios.xlsx,1184,1184,16,170,202,SUCCESS,2026-09-19T10:16:08.293137
+market_cap,market_cap.xlsx,552,552,9,0,0,SUCCESS,2026-09-19T10:16:08.293137
+peer_groups,peer_groups.xlsx,56,56,4,0,0,SUCCESS,2026-09-19T10:16:08.293137
+profitandloss,profitandloss.xlsx,1276,1276,15,331,124,SUCCESS,2026-09-19T10:16:08.293137
+prosandcons,prosandcons.xlsx,16,16,4,6,0,SUCCESS,2026-09-19T10:16:08.293137
+sectors,sectors.xlsx,92,92,6,0,0,SUCCESS,2026-09-19T10:16:08.293137
+stock_prices,stock_prices.xlsx,5520,5520,9,0,120,SUCCESS,2026-09-19T10:16:08.293137
